@@ -48,12 +48,12 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 	</tr>
 	<tr>
 		<td>CD [3]<br></td>
-		<td name="td1"><b>0.299</b><br><span>(&gamma;=0.47)</span></td>
-		<td name="td2"><b>0.531</b><br><span>(&gamma;=0.23)</span></td>
-		<td name="td3">0.215<br><span>(&gamma;=1.00)</span></td>
-		<td name="td4">0.326<br><span>(&gamma;=1.00)</span></td>
-		<td name="td5">0.267<br><span>(&gamma;=0.52)</span></td>
-		<td name="td6">0.467<br><span>(&gamma;=0.16)</span></td>
+		<td name="td1"><b>0.299</b></td>
+		<td name="td2"><b>0.531</b></td>
+		<td name="td3">0.215</td>
+		<td name="td4">0.326</td>
+		<td name="td5">0.267</td>
+		<td name="td6">0.467</td>
 	</tr>
 	<tr>
 		<td>FACES-E [4]</td>
@@ -76,11 +76,20 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 	<tr>
 		<td>LinkSUM [6]</td>
 		<td name="td1">0.290<br><span>(&alpha;=0.01)</span></td>
-		<td name="td2">0.498<br><span>(&alpha;=0.04)</span></td>
+		<td name="td2">0.498</td>
 		<td name="td3">0.117<br><span>(&alpha;=1.00)</span></td>
 		<td name="td4">0.255<br><span>(&alpha;=1.00)</span></td>
 		<td name="td5">0.240<br><span>(&alpha;=0.01)</span></td>
-		<td name="td6">0.428<br><span>(&alpha;=0.04)</span></td>
+		<td name="td6">0.428</td>
+	</tr>
+	<tr>
+		<td>KAFCA</td>
+		<td name="td1">0.332</td>
+		<td name="td2">0.531</td>
+		<td name="td3">0.249</td>
+		<td name="td4">0.399</td>
+		<td name="td5">0.308</td>
+		<td name="td6">0.493</td>
 	</tr>
 </table>
 
