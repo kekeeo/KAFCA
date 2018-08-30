@@ -170,7 +170,7 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 		<td><strong>KAFCA</strong></td>
 		<td name="td1"><b>0.402</td>
 		<td name="td2"><b>0.597</td>
-		<td name="td3">0.319</td>
+		<td name="td3"><b>0.319</td>
 		<td name="td4"><b>0.428</td>
 		<td name="td5"><b>0.378</td>
 		<td name="td6"><b>0.549</td>
