@@ -1,0 +1,35 @@
+,<http://xmlns.com/foaf/0.1/page>,<http://data.linkedmdb.org/resource/movie/actor_nytimes_id>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://data.linkedmdb.org/resource/movie/actor>,<http://data.linkedmdb.org/resource/movie/actor_name>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://data.linkedmdb.org/resource/movie/actor_actorid>,<http://data.linkedmdb.org/resource/movie/actor_netflix_id>,<http://data.linkedmdb.org/resource/movie/performance>
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/128910>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/15213>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/37390>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/73>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/83508>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/46293>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/6852>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/42133>,,,,,,,,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Margaret Colin (Actor)""",,,X,,X,X,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/88430>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/1924>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/49012>,,,,X,,,,,
+"<http://data.linkedmdb.org/resource/movie/actor_name>:-:""Margaret Colin""",,,X,,X,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/87924>,,,,,,,,,X
+"<http://data.linkedmdb.org/resource/movie/actor_netflix_id>:-:""""",,,,,,,,X,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/1763>,,,,X,,,,,
+"<http://data.linkedmdb.org/resource/movie/actor_actorid>:-:""31707""^^<http://www.w3.org/2001/XMLSchema#int>",,,,,,,X,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/63987>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/62913>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/80435>,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://xmlns.com/foaf/0.1/Person>,,,,,,X,,,
+"<http://data.linkedmdb.org/resource/movie/actor_nytimes_id>:-:""""",,X,,,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/3298>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/57526>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/184537>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/127332>,,,,,,,,,X
+<http://xmlns.com/foaf/0.1/page>:-:<http://www.freebase.com/view/guid/9202a8c04000641f80000000001d8847>,X,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://data.linkedmdb.org/resource/movie/actor>,,,,,,X,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/1253>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/119763>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/1848>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/4756>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/96027>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/95531>,,,,X,,,,,

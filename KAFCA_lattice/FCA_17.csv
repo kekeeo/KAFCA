@@ -1,0 +1,36 @@
+,<http://dbpedia.org/ontology/isPartOfMilitaryConflict>,<http://dbpedia.org/ontology/result>,<http://dbpedia.org/ontology/date>,<http://dbpedia.org/ontology/commander>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/place>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>
+"<http://dbpedia.org/ontology/date>:-:""1746-08-12""^^<http://www.w3.org/2001/XMLSchema#date>",,,X,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,,,,X,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Event>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Conflict100958896>,,,,,,,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_involving_France>,,,,,X,,X,X,X
+"<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois>",,,,X,,,,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Battle of Rottofreddo""@en",X,,,,X,X,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Act100030358>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,,,,X,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesInvolvingAustria>,,,,,X,,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/MilitaryConflict>,,,,,,,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1746_in_Italy>,,,,,,X,X,X,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Battle of Rottofreddo""@en",X,,,,X,X,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Event100029378>,,,,,,,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1746_in_France>,,,,,,,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SocietalEvent>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesInvolvingFrance>,,,,,X,,X,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Conflicts_in_1746>,,,,,,,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/GroupAction101080366>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/ConflictsIn1746>,,,,,,,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/MilitaryAction100952963>,,,,,,,,X,
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Antoniotto_Botta_Adorno>,,,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Battle100953559>,,,,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PsychologicalFeature100023100>,,,,,,,,X,
+"<http://dbpedia.org/ontology/result>:-:""French victory""",,X,,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_involving_Austria>,,,,,X,,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Abstraction100002137>,,,,,,,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1746_in_Austria>,,,,,,,X,X,
+<http://dbpedia.org/ontology/isPartOfMilitaryConflict>:-:<http://dbpedia.org/resource/War_of_the_Austrian_Succession>,X,,,,X,X,X,X,X
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/Italy>,,,,,,X,X,,
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/Rottofreno>,X,,,,X,X,,,X
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/Province_of_Piacenza>,X,,,,X,X,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Event>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q1656682>,,,,,,,,X,

@@ -1,0 +1,33 @@
+,<http://xmlns.com/foaf/0.1/page>,<http://data.linkedmdb.org/resource/movie/actor_nytimes_id>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://data.linkedmdb.org/resource/movie/actor>,<http://data.linkedmdb.org/resource/movie/actor_name>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://data.linkedmdb.org/resource/movie/actor_actorid>,<http://data.linkedmdb.org/resource/movie/actor_netflix_id>,<http://data.linkedmdb.org/resource/movie/performance>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://data.linkedmdb.org/resource/movie/actor>,,,,,,X,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/1288>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/147548>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/12950>,,,,X,,,,,
+"<http://data.linkedmdb.org/resource/movie/actor_name>:-:""Sara Berner""",,,X,,X,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/149944>,,,,,,,,,X
+"<http://data.linkedmdb.org/resource/movie/actor_actorid>:-:""52869""^^<http://www.w3.org/2001/XMLSchema#int>",,,,,,,X,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/197575>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/40943>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/44517>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/38388>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/145337>,,,,,,,,,X
+"<http://data.linkedmdb.org/resource/movie/actor_netflix_id>:-:""""",,,,,,,,X,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/145694>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/43693>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/145237>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/149931>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/141962>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/12394>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/145202>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/145767>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/48308>,,,,X,,,,,
+"<http://data.linkedmdb.org/resource/movie/actor_nytimes_id>:-:""""",,X,,,,,,,
+<http://xmlns.com/foaf/0.1/page>:-:<http://www.freebase.com/view/guid/9202a8c04000641f8000000006b4f1f3>,X,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/14907>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/15323>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/168659>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/50896>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/145366>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/83088>,,,,X,,,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Sara Berner (Actor)""",,,X,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://xmlns.com/foaf/0.1/Person>,,,,,,X,,,

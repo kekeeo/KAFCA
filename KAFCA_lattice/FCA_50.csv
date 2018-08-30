@@ -1,0 +1,21 @@
+,<http://dbpedia.org/ontology/starring>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/runtime>,<http://dbpedia.org/ontology/director>,<http://dbpedia.org/ontology/country>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/musicComposer>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>
+"<http://dbpedia.org/ontology/runtime>:-:""3480.0""^^<http://www.w3.org/2001/XMLSchema#double>",,,X,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:British_films>,,,,,,X,,X,
+<http://dbpedia.org/ontology/director>:-:<http://dbpedia.org/resource/Lance_Comfort>,,,,X,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/CreativeWork>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Wikidata:Q11424>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Work>,,,,,,,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1961_films>,,,,,,X,,X,
+<http://dbpedia.org/ontology/musicComposer>:-:<http://dbpedia.org/resource/Johnny_Douglas_(conductor)>,,,,,,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1960s_crime_films>,,,,,,X,,X,
+"<http://xmlns.com/foaf/0.1/name>:-:""Touch of Death""@en",,X,,,,,,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Touch of Death (1961 film)""@en",,X,,,,X,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Film>,,,,,,,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:British_crime_films>,,,,,,X,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Films_directed_by_Lance_Comfort>,,,,X,,X,,X,
+<http://dbpedia.org/ontology/starring>:-:<http://dbpedia.org/resource/William_Lucas_(actor)>,X,,,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Black-and-white_films>,,,,,,X,,X,
+<http://dbpedia.org/ontology/country>:-:<http://dbpedia.org/resource/United_Kingdom>,,,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Movie>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q386724>,,,,,,,,X,

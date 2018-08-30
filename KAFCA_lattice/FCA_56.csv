@@ -1,0 +1,76 @@
+,<http://dbpedia.org/ontology/height>,<http://xmlns.com/foaf/0.1/surname>,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/currentMember>,<http://dbpedia.org/ontology/alias>,<http://dbpedia.org/ontology/birthDate>,<http://dbpedia.org/ontology/position>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/birthPlace>,<http://xmlns.com/foaf/0.1/depiction>,<http://dbpedia.org/ontology/birthYear>,<http://dbpedia.org/ontology/careerStation>,<http://purl.org/dc/terms/subject>,<http://xmlns.com/foaf/0.1/givenName>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://purl.org/dc/elements/1.1/description>,<http://dbpedia.org/ontology/number>,<http://dbpedia.org/ontology/team>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PFCLitexLovechPlayers>,,,,X,,,,,,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Object100002684>,,,,X,,,,,,,,X,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Contestant109613191>,,,,X,,,,,,,,X,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Person>,,,,X,,,,,,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Athlete109820263>,,,,X,,,,,,,,X,X,,X,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Bulgarian_footballers>,,,,X,,,,,X,,,,X,,X,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Whole100003553>,,,,X,,,,,,,,X,X,,X,,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Momchil Emilov Tsvetanov""@en",,X,X,X,,,,X,,X,,X,X,X,,X,,,X
+<http://dbpedia.org/ontology/birthPlace>:-:<http://dbpedia.org/resource/Pleven>,,,,X,,,,,X,,,,X,,X,,,,X
+"<http://xmlns.com/foaf/0.1/givenName>:-:""Momchil""@en",,,X,X,,,,X,,X,,X,X,X,,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoLegalActor>,,,,X,,,,,,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://xmlns.com/foaf/0.1/Person>,,,,X,,,,,,,,X,X,,X,,,,X
+"<http://dbpedia.org/ontology/alias>:-:""Момчил Цветанов""@en",,,,,X,,,,,,,,,,,,,,
+<http://dbpedia.org/ontology/currentMember>:-:<http://dbpedia.org/resource/PFC_CSKA_Sofia__Momchil_Tsvetanov__1>,,X,X,X,,,,X,,X,,X,X,X,X,X,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Momchil Tsvetanov""@en",,X,X,X,,,,X,,X,,X,X,X,,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/LivingPeople>,,,,X,,,,,,,,,X,,X,,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Tsvetanov, Momchil""@en",,X,X,X,,,,X,,X,,X,X,X,,X,,,X
+"<http://purl.org/dc/elements/1.1/description>:-:""Bulgarian footballer""@en",,,,X,,,,,X,,,,X,,X,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PhysicalEntity100001930>,,,,X,,,,,,,,X,X,,X,,,,X
+<http://dbpedia.org/ontology/currentMember>:-:<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2014>,,,,X,,,,,X,,,X,X,,X,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BulgarianAProfessionalFootballGroupPlayers>,,,,X,,,,,X,,,,X,,X,,X,,X
+<http://dbpedia.org/ontology/team>:-:<http://dbpedia.org/resource/PFC_Spartak_Pleven>,,,,X,,,,,X,,,,X,,X,,,,X
+"<http://dbpedia.org/ontology/number>:-:""7""",,,,,,,,,,,,X,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Player110439851>,,,,X,,,,,,,,X,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoLegalActorGeo>,,,,X,,,,,,,,,X,,X,,,,X
+<http://dbpedia.org/ontology/team>:-:<http://dbpedia.org/resource/PFC_CSKA_Sofia>,,,,X,,,,,,,,,X,,X,,,,X
+<http://dbpedia.org/ontology/careerStation>:-:<http://dbpedia.org/resource/Momchil_Tsvetanov__5>,,X,X,X,,,,X,,X,,X,X,X,X,X,,,X
+<http://dbpedia.org/ontology/careerStation>:-:<http://dbpedia.org/resource/Momchil_Tsvetanov__3>,,X,X,X,,,,X,,X,,X,X,X,X,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SoccerPlayer>,,,,X,,,,,,,,,X,,X,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:PFC_CSKA_Sofia_players>,,,,X,,,,,,,,,X,,X,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1990_births>,,,,X,,,,,,,X,X,X,,X,,,,X
+<http://xmlns.com/foaf/0.1/depiction>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Momchil_Cvetanov.JPG>,,,X,X,,,,X,,X,,X,X,X,X,X,,,X
+<http://dbpedia.org/ontology/position>:-:<http://dbpedia.org/resource/Midfielder>,,,,X,,,X,,,,,,X,,X,,,,X
+<http://dbpedia.org/ontology/careerStation>:-:<http://dbpedia.org/resource/Momchil_Tsvetanov__1>,,X,X,X,,,,X,,X,,X,X,X,X,X,,,X
+<http://dbpedia.org/ontology/team>:-:<http://dbpedia.org/resource/PFC_Botev_Plovdiv>,,,,X,,,,,,,,,X,,X,,,,X
+<http://dbpedia.org/ontology/team>:-:<http://dbpedia.org/resource/Bulgaria_national_under-21_football_team>,,,,X,,,,,X,,,X,X,,X,,,,X
+<http://dbpedia.org/ontology/team>:-:<http://dbpedia.org/resource/PFC_Litex_Lovech>,,,,X,,,,,,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Organism100004475>,,,,X,,,,,,,,X,X,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BulgarianFootballers>,,,,X,,,,,X,,,,X,,X,,X,,X
+"<http://dbpedia.org/ontology/birthDate>:-:""1990-03-12""^^<http://www.w3.org/2001/XMLSchema#date>",,,,X,,X,,,,,X,X,X,,X,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Bulgarian_A_Football_Group_players>,,,,X,,,,,X,,,,X,,X,,X,,X
+<http://dbpedia.org/ontology/careerStation>:-:<http://dbpedia.org/resource/Momchil_Tsvetanov__6>,,X,X,X,,,,X,,X,,X,X,X,X,X,,,X
+<http://dbpedia.org/ontology/currentMember>:-:<http://dbpedia.org/resource/2015–16_PFC_CSKA_Sofia_season__Momchil_Tsvetanov__1>,,X,X,X,,,,X,,X,,X,X,X,X,X,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:PFC_Botev_Plovdiv_players>,,,,X,,,,,,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Person100007846>,,,,X,,,,,,,,X,X,,X,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:PFC_Spartak_Pleven_players>,,,,X,,,,,X,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PFCSpartakPlevenPlayers>,,,,X,,,,,X,,,,X,,X,,,,X
+<http://dbpedia.org/ontology/careerStation>:-:<http://dbpedia.org/resource/Momchil_Tsvetanov__7>,,X,X,X,,,,X,,X,,X,X,X,X,X,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Living_people>,,,,X,,,,,,,,,X,,X,,,,X
+<http://dbpedia.org/ontology/birthPlace>:-:<http://dbpedia.org/resource/Bulgaria>,,,,X,,,,,X,,,,X,,X,,,,X
+"<http://dbpedia.org/ontology/birthDate>:-:""1990-12-03""^^<http://www.w3.org/2001/XMLSchema#date>",,,,X,,X,,,,,X,X,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,,,,X,,,,,,,,,X,,X,,,,X
+"<http://purl.org/dc/elements/1.1/description>:-:""Bulgarian footballer""",,,,X,,,,,X,,,,X,,X,,X,,X
+<http://dbpedia.org/ontology/currentMember>:-:<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_summer_2015>,,,,X,,,,,X,,,X,X,,X,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Association_football_midfielders>,,,,X,,,X,,,,,,X,,X,,,,X
+"<http://dbpedia.org/ontology/height>:-:""1.73""^^<http://www.w3.org/2001/XMLSchema#double>",X,,,X,,,,,,,,X,X,,X,,,X,X
+<http://dbpedia.org/ontology/careerStation>:-:<http://dbpedia.org/resource/Momchil_Tsvetanov__4>,,X,X,X,,,,X,,X,,X,X,X,X,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/FootballPlayer110101634>,,,,X,,,,,,,,X,X,,X,,,,X
+<http://dbpedia.org/ontology/team>:-:<http://dbpedia.org/resource/Bulgaria_national_under-19_football_team>,,,,X,,,,,X,,,X,X,,X,,,,X
+<http://dbpedia.org/ontology/thumbnail>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Momchil_Cvetanov.JPG?width=300>,,,X,X,,,,X,,X,,X,X,X,X,X,,,X
+"<http://xmlns.com/foaf/0.1/surname>:-:""Tsvetanov""@en",,X,,X,,,,X,,,,X,X,,,X,,,X
+<http://dbpedia.org/ontology/careerStation>:-:<http://dbpedia.org/resource/Momchil_Tsvetanov__2>,,X,X,X,,,,X,,X,,X,X,X,X,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Athlete>,,,,X,,,,,,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Person>,,,,X,,,,,,,,,X,,X,,,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Momchil Tsvetanov""@en",,X,X,X,,,,X,,X,,X,X,X,,X,,,X
+"<http://dbpedia.org/ontology/birthYear>:-:""1990""^^<http://www.w3.org/2001/XMLSchema#gYear>",,,,X,,,,,,,X,X,X,,X,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:PFC_Litex_Lovech_players>,,,,X,,,,,,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q937857>,,,,X,,,,,,,,X,X,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q5>,,,,X,,,,,,,,X,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,X,,,,,,,,X,X,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Agent>,,,,X,,,,,,,,,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q215627>,,,,X,,,,,,,,X,X,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/CausalAgent100007347>,,,,X,,,,,,,,X,X,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/LivingThing100004258>,,,,X,,,,,,,,X,X,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,,,,X,,,,,,,,,X,,X,,,,X

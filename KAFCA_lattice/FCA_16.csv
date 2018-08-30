@@ -1,0 +1,52 @@
+,<http://dbpedia.org/ontology/battle>,<http://dbpedia.org/ontology/isPartOfMilitaryConflict>,<http://dbpedia.org/ontology/result>,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/date>,<http://dbpedia.org/ontology/commander>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/place>,<http://dbpedia.org/ontology/causalties>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/strength>,<http://xmlns.com/foaf/0.1/depiction>
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Alexander_I_of_Yugoslavia>,,,,X,,X,X,,,X,X,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Event100029378>,,,,,,X,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Event>,,,,,,X,,,,,X,,,
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/Bregalnica>,,,,,,X,X,X,,,,X,,
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Radomir_Putnik>,,,,,,X,,,,,,,,
+"<http://dbpedia.org/ontology/result>:-:""Serbian victory""",,,X,,,X,,,,X,X,,,
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Vicho_Dikov>,,,,,,X,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Act100030358>,,,,,,X,,,,,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_involving_Bulgaria>,,,,X,,X,X,,,X,X,X,,X
+"<http://dbpedia.org/ontology/strength>:-:""ca. 130,000 men, guns (100 Infantry Battalions, 6 Cavalry Regiments, 63 Artillery Batteries)""",,,,,,X,,,,X,X,,X,
+"<http://dbpedia.org/ontology/strength>:-:""ca. 194,000 men, 235 guns (104 Infantry Battalions, 34 Cavalry Companies, 62 Artillery Batteries) *""",,,,,,X,,,,X,X,,X,
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Živojin_Mišić>,,,,,,X,,,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesInvolvingBulgaria>,,,,X,,X,X,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SocietalEvent>,,,,,,X,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/MilitaryConflict>,,,,,,X,,,,,X,,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Battle of Bregalnica""@en",,,,X,,X,X,X,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Battle100953559>,,,,X,,X,X,,,,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Event>,,,,,,,,,,,X,,,
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Janko_Vukotić>,,,,,,X,,,,,,,,
+<http://dbpedia.org/ontology/battle>:-:<http://dbpedia.org/resource/Mihail_Savov>,X,,,,,X,,,,,,,,
+"<http://dbpedia.org/ontology/strength>:-:""Montenegrin division ca. 13,000 men, 6 guns and 24 machine guns""",,,,,,X,,,,X,X,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/GroupAction101080366>,,,,,,X,,,,,X,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/ConflictsIn1913>,,,,,,X,,,,X,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1913_in_Serbia>,,,,,,X,,,,X,X,,,
+"<http://dbpedia.org/ontology/date>:-:""1913-07-08""^^<http://www.w3.org/2001/XMLSchema#date>",,,,,X,,,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesOfTheSecondBalkanWar>,,X,,X,,X,X,,,X,X,X,,X
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Mihail_Savov>,X,,,,,X,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Abstraction100002137>,,,,,,X,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Conflict100958896>,,,,,,X,,,,,X,,X,
+<http://xmlns.com/foaf/0.1/depiction>:-:<http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png>,,,,X,,X,X,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,,,,,,X,,,,,X,,,
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Petar_Bojović>,,,,,,X,,,,,,,,
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/Stiliyan_Kovachev>,,,,,,X,,,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1913_in_Bulgaria>,,,,,,X,,,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,,,,,,X,,,,,X,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Battle of Bregalnica""@en",,,,X,,X,X,X,,X,X,X,,X
+<http://dbpedia.org/ontology/thumbnail>:-:<http://en.wikipedia.org/wiki/Special:FilePath/Plan_of_the_Battle_of_Bregalnitza.png?width=300>,,,,X,,X,X,,,X,X,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_of_the_Second_Balkan_War>,,X,,X,,X,X,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesInvolvingSerbia>,,,,X,,X,X,,,X,X,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Vardar_Macedonia_(1912–1918)>,,,,,,X,,,,X,,,,
+"<http://dbpedia.org/ontology/causalties>:-:""20,000""",,,,,,,,,X,,,,,
+<http://dbpedia.org/ontology/battle>:-:<http://dbpedia.org/resource/Jovan_Babunski>,X,,,,,X,,,,,,,,
+<http://dbpedia.org/ontology/battle>:-:<http://dbpedia.org/resource/Fourth_Army_(Bulgaria)>,X,,,,,X,,,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/MilitaryAction100952963>,,,,,,X,,,,,X,,X,
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/Ottoman_Empire>,,,,,,X,,X,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Conflicts_in_1913>,,,,,,X,,,,X,X,,,
+<http://dbpedia.org/ontology/isPartOfMilitaryConflict>:-:<http://dbpedia.org/resource/Second_Balkan_War>,,X,,,,X,,,,X,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_involving_Serbia>,,,,X,,X,X,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PsychologicalFeature100023100>,,,,,,X,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q1656682>,,,,,,X,,,,,X,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,X,,,,X,X,,,

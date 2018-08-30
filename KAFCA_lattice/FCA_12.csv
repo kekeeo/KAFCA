@@ -1,0 +1,23 @@
+,<http://dbpedia.org/ontology/followingEvent>,<http://dbpedia.org/ontology/team>,<http://dbpedia.org/ontology/date>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/location>,<http://dbpedia.org/ontology/city>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/previousEvent>
+<http://dbpedia.org/ontology/team>:-:<http://dbpedia.org/resource/Muangthong_United_F.C.>,,X,,,,,,,,
+<http://dbpedia.org/ontology/followingEvent>:-:<http://dbpedia.org/resource/2012_Kor_Royal_Cup>,X,,,X,,,X,,X,X
+"<http://dbpedia.org/ontology/date>:-:""2011-01-30""^^<http://www.w3.org/2001/XMLSchema#date>",,,X,X,,,X,,X,
+"<http://xmlns.com/foaf/0.1/name>:-:""2011 Kor Royal Cup""@en",X,,,X,,,X,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/FootballMatch>,,,,,,,X,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Event>,,,,,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Event>,,,,,,,,X,,
+<http://dbpedia.org/ontology/previousEvent>:-:<http://dbpedia.org/resource/2010_Kor_Royal_Cup>,X,,,X,,,X,,X,X
+<http://dbpedia.org/ontology/team>:-:<http://dbpedia.org/resource/Chonburi_F.C.>,,X,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,,,,,,,,X,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""2011 Kor Royal Cup""@en",X,,,X,,,X,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2011_in_Thai_football_cups>,X,,,X,,,X,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SocietalEvent>,,,,,,,,X,,
+<http://dbpedia.org/ontology/previousEvent>:-:<http://dbpedia.org/resource/2012_Kor_Royal_Cup>,X,,,X,,,X,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SportsEvent>,,,,,,,,X,,
+<http://dbpedia.org/ontology/followingEvent>:-:<http://dbpedia.org/resource/2010_Kor_Royal_Cup>,X,,,X,,,X,,X,X
+<http://dbpedia.org/ontology/city>:-:<http://dbpedia.org/resource/Bangkok>,,,,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/SportsEvent>,,,,,,,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Kor_Royal_Cup_seasons>,X,,,X,,,X,,X,X
+<http://dbpedia.org/ontology/location>:-:<http://dbpedia.org/resource/National_Stadium_(Thailand)>,,,,,X,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q1656682>,,,,,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,X,X,,

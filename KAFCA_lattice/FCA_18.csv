@@ -1,0 +1,29 @@
+,<http://dbpedia.org/ontology/combatant>,<http://dbpedia.org/ontology/isPartOfMilitaryConflict>,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/date>,<http://dbpedia.org/ontology/commander>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/place>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/causalties>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/strength>,<http://xmlns.com/foaf/0.1/depiction>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Event>,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SocietalEvent>,,,,,,,,,,X,,,
+"<http://dbpedia.org/ontology/date>:-:""1921-03-18""^^<http://www.w3.org/2001/XMLSchema#date>",,,,X,,,,X,X,,,,
+"<http://dbpedia.org/ontology/combatant>:-:""border|22pxIrish Republican Army""",X,X,,,,,,X,X,,,,
+"<http://dbpedia.org/ontology/strength>:-:""~20""",,,,,,,,,X,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Event>,,,,,,,,,,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Military_actions_and_engagements_during_the_Irish_War_of_Independence>,X,X,X,,,,,X,,X,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Burgery Ambush""@en",,,,,,X,,,,,X,,
+<http://dbpedia.org/ontology/thumbnail>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg?width=300>,,X,X,,,,,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,,,,,,,,,,X,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Burgery ambush""@en",,,,,,X,,,,,X,,
+"<http://dbpedia.org/ontology/causalties>:-:""2 dead""",,,,,,,,,X,,,,
+"<http://dbpedia.org/ontology/combatant>:-:""(Déise Brigade)""",X,,,,,,,,,,,,
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/Dungarvan>,,,,,,,X,X,,,,,
+<http://xmlns.com/foaf/0.1/depiction>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg>,,X,X,,,,,X,,,,,X
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/County_Waterford>,,,,,,,X,X,,,,,
+"<http://dbpedia.org/ontology/strength>:-:""50 (subsequently)""",,,,,,,,,,,,X,
+<http://dbpedia.org/ontology/commander>:-:<http://dbpedia.org/resource/George_Oliver_Plunkett>,,,,,X,,,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Dungarvan>,,,,,,,X,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:History_of_County_Waterford>,,X,X,,,,X,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/MilitaryConflict>,,,,,,,,X,,X,,,
+"<http://dbpedia.org/ontology/combatant>:-:""Royal Irish Constabulary""",X,X,,,,,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1921_in_Ireland>,,,,,,,,X,X,,,,
+"<http://dbpedia.org/ontology/strength>:-:""14 (initially)""",,,,,,,,X,,,,X,
+<http://dbpedia.org/ontology/isPartOfMilitaryConflict>:-:<http://dbpedia.org/resource/Irish_War_of_Independence>,X,X,X,,,,,X,,,,,X
+"<http://dbpedia.org/ontology/combatant>:-:""(Reserve Force)""",X,,,,,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,,X,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q1656682>,,,,,,,,,X,X,,,

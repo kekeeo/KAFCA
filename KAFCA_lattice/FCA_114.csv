@@ -1,0 +1,33 @@
+,<http://data.linkedmdb.org/resource/movie/initial_release_date>,<http://data.linkedmdb.org/resource/movie/music_contributor>,<http://data.linkedmdb.org/resource/movie/film_cut>,<http://xmlns.com/foaf/0.1/made>,<http://data.linkedmdb.org/resource/movie/filmid>,<http://xmlns.com/foaf/0.1/page>,<http://data.linkedmdb.org/resource/movie/writer>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://data.linkedmdb.org/resource/movie/actor>,<http://data.linkedmdb.org/resource/movie/language>,<http://data.linkedmdb.org/resource/movie/producer>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/based_near>,<http://purl.org/dc/terms/date>,<http://data.linkedmdb.org/resource/movie/runtime>,<http://data.linkedmdb.org/resource/oddlinker/link_source>,<http://purl.org/dc/terms/title>,<http://data.linkedmdb.org/resource/movie/director>,<http://data.linkedmdb.org/resource/movie/performance>,<http://data.linkedmdb.org/resource/movie/cinematographer>,<http://data.linkedmdb.org/resource/movie/country>
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/32168>,,,,,,X,,,X,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/25385>,,,,,,X,,,,,,,,,,,,,X,,X
+<http://xmlns.com/foaf/0.1/page>:-:<http://www.imdb.com/title/tt0086244>,,,,,,X,,,,,,,,,,,,,,,X
+<http://xmlns.com/foaf/0.1/made>:-:<http://data.linkedmdb.org/resource/director/8972>,,,,X,,X,,,,,,,,,,,,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://data.linkedmdb.org/resource/movie/film>,,,X,,,X,,,,,,X,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/writer>:-:<http://data.linkedmdb.org/resource/writer/14150>,,,,,,X,X,,,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/film_cut>:-:<http://data.linkedmdb.org/resource/film_cut/5444>,,,X,,,X,,,,,,X,,,,,,,,,X
+"<http://purl.org/dc/terms/title>:-:""Satomi Hakkenden""",,,,,,,,X,,,,,,,,,X,,,,
+"<http://purl.org/dc/terms/date>:-:""1983-10-12""",X,,,,,,,,,,,,,X,,,,,,,
+"<http://data.linkedmdb.org/resource/movie/initial_release_date>:-:""1983-10-12""",X,,,,,,,,,,,,,X,,,,,,,
+<http://data.linkedmdb.org/resource/movie/music_contributor>:-:<http://data.linkedmdb.org/resource/music_contributor/180>,,X,,,,X,,,,,,,,,,,,,,,X
+<http://xmlns.com/foaf/0.1/page>:-:<http://www.rottentomatoes.com/alias?type=imdbid&s=0086244>,,,,,,X,,,,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/oddlinker/link_source>:-:<http://data.linkedmdb.org/resource/interlink/61136>,,,,,,X,,,,,,,,,X,X,,,,,X
+"<http://data.linkedmdb.org/resource/movie/filmid>:-:""6191""^^<http://www.w3.org/2001/XMLSchema#int>",,,,,X,X,,,,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/writer>:-:<http://data.linkedmdb.org/resource/writer/4410>,,,,,,X,X,,,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/25387>,,,,,,X,,,,,,,,,,,,,X,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/36373>,,,,,,X,,,X,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/cinematographer>:-:<http://data.linkedmdb.org/resource/cinematographer/1122>,,,,,,X,,,,,,,,,,,,,,X,X
+<http://data.linkedmdb.org/resource/movie/director>:-:<http://data.linkedmdb.org/resource/director/8972>,,,,X,,X,,,,,,,,,,,,X,,,X
+<http://xmlns.com/foaf/0.1/based_near>:-:<http://sws.geonames.org/1861060/>,,,,,,X,,,,,,,X,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/87740>,,,,,,X,,,,,,,,,,,,,X,,X
+<http://data.linkedmdb.org/resource/movie/producer>:-:<http://data.linkedmdb.org/resource/producer/14066>,,,,,,X,,,,,X,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/country>:-:<http://data.linkedmdb.org/resource/country/JP>,,,,,,X,,,,,,,,,,,,,,,X
+"<http://data.linkedmdb.org/resource/movie/runtime>:-:""136""",,,,,,,,,,,,,,,X,,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/44257>,,,,,,X,,,X,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/language>:-:<http://www.lingvoj.org/lingvo/ja>,,,,,,X,,,,X,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/producer>:-:<http://data.linkedmdb.org/resource/producer/4154>,,,,,,X,,,,,X,,,,,,,,,,X
+<http://xmlns.com/foaf/0.1/page>:-:<http://www.freebase.com/view/guid/9202a8c04000641f8000000000abf0a2>,,,,,,X,,,,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/oddlinker/link_source>:-:<http://data.linkedmdb.org/resource/interlink/139288>,,,,,,X,,,,,,,,,,X,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/34973>,,,,,,X,,,X,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/25386>,,,,,,X,,,,,,,,,,,,,X,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Satomi Hakkenden""",,,,,,,,X,,,,,,,,,X,,,,

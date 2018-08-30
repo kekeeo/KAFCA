@@ -1,0 +1,26 @@
+,<http://dbpedia.org/ontology/promotion>,<http://dbpedia.org/ontology/followingEvent>,<http://dbpedia.org/ontology/date>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/location>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/previousEvent>
+<http://dbpedia.org/ontology/followingEvent>:-:<http://dbpedia.org/resource/Guilty_as_Charged>,,X,,,,,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Massacre on 34th Street""@en",,X,,X,,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Professional_wrestling_in_New_York>,X,,,X,X,X,X,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Extreme_Championship_Wrestling_shows>,X,,,X,,X,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SocietalEvent>,,X,,X,,,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SportsEvent>,,X,,X,,X,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,,X,,X,,,X,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Sports_in_Manhattan>,,,,,,X,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Event>,,,,,,,X,,
+<http://dbpedia.org/ontology/followingEvent>:-:<http://dbpedia.org/resource/November_to_Remember>,,X,,,,,,,X
+<http://dbpedia.org/ontology/location>:-:<http://dbpedia.org/resource/New_York_City>,,,,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Event>,,X,,X,,,X,X,X
+"<http://dbpedia.org/ontology/date>:-:""2000-12-03""^^<http://www.w3.org/2001/XMLSchema#date>",,,X,,,X,,,
+<http://dbpedia.org/ontology/previousEvent>:-:<http://dbpedia.org/resource/Holiday_Hell>,,,,,,,,,X
+<http://dbpedia.org/ontology/location>:-:<http://dbpedia.org/resource/Hammerstein_Ballroom>,,,,,X,X,,,
+<http://dbpedia.org/ontology/previousEvent>:-:<http://dbpedia.org/resource/Guilty_as_Charged>,,X,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2000_in_professional_wrestling>,X,,,X,,X,X,X,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Massacre on 34th Street""@en",,X,,X,,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/SportsEvent>,,,,,,X,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2000_in_New_York>,,,,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/WrestlingEvent>,X,X,,X,,X,X,X,X
+<http://dbpedia.org/ontology/promotion>:-:<http://dbpedia.org/resource/Extreme_Championship_Wrestling>,X,,,X,,X,X,X,
+<http://dbpedia.org/ontology/previousEvent>:-:<http://dbpedia.org/resource/November_to_Remember>,,X,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,X,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q1656682>,,,,,,,X,,

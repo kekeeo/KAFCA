@@ -1,0 +1,23 @@
+,<http://dbpedia.org/ontology/starring>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/director>,<http://dbpedia.org/ontology/country>,<http://dbpedia.org/ontology/language>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Films_set_in_the_Netherlands>,,,,X,,X,X,
+<http://dbpedia.org/ontology/starring>:-:<http://dbpedia.org/resource/Marcel_Hensema>,X,,,,,X,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Simon""@en",,X,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:LGBT-related_drama_films>,,,,,,X,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2004_films>,,,,,,X,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2000s_drama_films>,,,,,,X,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Dutch_LGBT-related_films>,,,,,X,X,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Dutch-language_films>,,,,,X,X,X,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Simon (2004 film)""@en",,X,,,,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Wikidata:Q11424>,,,,,,X,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Films_directed_by_Eddy_Terstall>,,,X,,,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Film>,,,,,,X,X,
+<http://dbpedia.org/ontology/country>:-:<http://dbpedia.org/resource/Netherlands>,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Movie>,,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/CreativeWork>,,,,,,,X,
+<http://dbpedia.org/ontology/director>:-:<http://dbpedia.org/resource/Eddy_Terstall>,,,X,,,X,,
+<http://dbpedia.org/ontology/starring>:-:<http://dbpedia.org/resource/Cees_Geel>,X,,,,,X,,
+<http://dbpedia.org/ontology/language>:-:<http://dbpedia.org/resource/Dutch_language>,,,,,X,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Dutch_films>,,,,,X,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Work>,,,,,,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q386724>,,,,,,,X,

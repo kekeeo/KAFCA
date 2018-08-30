@@ -1,0 +1,21 @@
+,<http://dbpedia.org/ontology/division>,<http://dbpedia.org/ontology/genus>,<http://dbpedia.org/ontology/binomialAuthority>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/kingdom>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/class>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/family>,<http://dbpedia.org/ontology/order>
+<http://dbpedia.org/ontology/binomialAuthority>:-:<http://dbpedia.org/resource/William_Vincent_Fitzgerald>,,,X,,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Myrtales_of_Australia>,,,,,,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Species>,,,,,,,,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Melaleuca>,,X,,X,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Flora_of_Western_Australia>,,,,,,X,,,,,
+<http://dbpedia.org/ontology/kingdom>:-:<http://dbpedia.org/resource/Plant>,X,,,,X,,,X,,,
+<http://dbpedia.org/ontology/class>:-:<http://dbpedia.org/resource/Rosids>,,,,,,,X,,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Melaleuca sheathiana""@en",,X,,X,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Plant>,X,,,,X,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Eukaryote>,,,,,,,,X,,,
+<http://dbpedia.org/ontology/genus>:-:<http://dbpedia.org/resource/Melaleuca>,,X,,X,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Plants_described_in_1902>,X,,,,X,X,,X,,,
+<http://dbpedia.org/ontology/family>:-:<http://dbpedia.org/resource/Myrtaceae>,,,,,,,,,,X,
+<http://dbpedia.org/ontology/order>:-:<http://dbpedia.org/resource/Myrtales>,,,,,,X,,,,,X
+<http://dbpedia.org/ontology/division>:-:<http://dbpedia.org/resource/Flowering_plant>,X,,,,X,X,,X,,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Silver Cajuput""@en",,,,,,,,,X,,
+<http://dbpedia.org/ontology/class>:-:<http://dbpedia.org/resource/Eudicots>,,,,,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,X,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q756>,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q19088>,,,,,,,,X,,,

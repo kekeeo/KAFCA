@@ -1,0 +1,26 @@
+,<http://dbpedia.org/ontology/musicalBand>,<http://dbpedia.org/ontology/musicalArtist>,<http://dbpedia.org/ontology/releaseDate>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/genre>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/album>,<http://dbpedia.org/ontology/runtime>,<http://dbpedia.org/ontology/producer>,<http://dbpedia.org/ontology/previousWork>,<http://dbpedia.org/ontology/subsequentWork>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/format>,<http://dbpedia.org/ontology/writer>
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""If (Glasvegas song)""@en",X,X,,X,,X,X,,,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Work>,,,,,,,X,,,,,X,,,
+<http://dbpedia.org/ontology/album>:-:<http://dbpedia.org/resource/Later...When_the_TV_Turns_to_Static>,,,,,,,X,,,,,,,,
+"<http://dbpedia.org/ontology/runtime>:-:""269.0""^^<http://www.w3.org/2001/XMLSchema#double>",,,,,,,X,X,,,,,,,
+<http://dbpedia.org/ontology/format>:-:<http://dbpedia.org/resource/Digital_distribution>,,,,,,,X,,,,,,,X,
+"<http://xmlns.com/foaf/0.1/name>:-:""If""@en",,,,,,X,,,,,,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2013_singles>,,,,X,,,X,,,,,X,,,
+<http://dbpedia.org/ontology/previousWork>:-:<http://dbpedia.org/resource/I'd_Rather_Be_Dead_(Than_Be_with_You)>,,,,,,,X,,,X,X,,,,
+<http://dbpedia.org/ontology/writer>:-:<http://dbpedia.org/resource/James_Allan_(musician)>,,,,X,,,X,,X,,,,,,X
+"<http://dbpedia.org/ontology/releaseDate>:-:""2013-07-08""^^<http://www.w3.org/2001/XMLSchema#date>",,,X,X,,,X,,,,,,,,
+<http://dbpedia.org/ontology/producer>:-:<http://dbpedia.org/resource/James_Allan_(musician)>,,,,X,,,X,,X,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/MusicalWork>,,,,,,,X,,,,,X,,,
+<http://dbpedia.org/ontology/musicalBand>:-:<http://dbpedia.org/resource/Glasvegas>,X,X,,X,,,X,,,,,,,,
+<http://dbpedia.org/ontology/musicalArtist>:-:<http://dbpedia.org/resource/Glasvegas>,X,X,,X,,,X,,,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Songs_written_by_James_Allan_(musician)>,,,,X,,,X,,X,,,,,,X
+<http://dbpedia.org/ontology/subsequentWork>:-:<http://dbpedia.org/resource/I'd_Rather_Be_Dead_(Than_Be_with_You)>,,,,,,,X,,,X,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Single>,,,,,,,X,,,,,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Glasvegas_songs>,X,X,,X,,,X,,,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2013_songs>,,,,X,,,X,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/CreativeWork>,,,,,,,X,,,,,X,,,
+<http://dbpedia.org/ontology/genre>:-:<http://dbpedia.org/resource/Indie_rock>,,,,,X,,X,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,X,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q386724>,,,,,,,X,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q2188189>,,,,,,,X,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q134556>,,,,,,,X,,,,,X,,,

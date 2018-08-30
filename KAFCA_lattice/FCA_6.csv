@@ -1,0 +1,33 @@
+,<http://dbpedia.org/ontology/deathYear>,<http://dbpedia.org/ontology/birthDate>,<http://dbpedia.org/ontology/deathPlace>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/birthPlace>,<http://dbpedia.org/ontology/deathDate>,<http://dbpedia.org/ontology/birthYear>,<http://purl.org/dc/terms/subject>,<http://xmlns.com/foaf/0.1/givenName>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://purl.org/dc/elements/1.1/description>,<http://xmlns.com/foaf/0.1/surname>
+"<http://xmlns.com/foaf/0.1/name>:-:""Mawlong, E.K.""@en",,,,X,,,,,X,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:People_from_East_Khasi_Hills_district>,,,,,X,,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Speakers_of_the_Meghalaya_Legislative_Assembly>,,,X,,,,,X,,,,,
+"<http://purl.org/dc/elements/1.1/description>:-:""Indian politician""",,,X,,,,,,,,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Members_of_the_Meghalaya_Legislative_Assembly>,,,X,,,,,X,,,,,
+"<http://xmlns.com/foaf/0.1/givenName>:-:""E.K.""@en",,,,X,,,,,X,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1946_births>,,,,,,,X,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Person>,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,,,,,,,,,,X,,,
+"<http://dbpedia.org/ontology/deathYear>:-:""2008""^^<http://www.w3.org/2001/XMLSchema#gYear>",X,,,,,,,X,,,,,
+"<http://purl.org/dc/elements/1.1/description>:-:""Indian politician""@en",,,X,,,,,,,,,X,
+"<http://xmlns.com/foaf/0.1/name>:-:""E.K. Mawlong""@en",,,,X,,,,,X,,X,,X
+"<http://dbpedia.org/ontology/birthYear>:-:""1946""^^<http://www.w3.org/2001/XMLSchema#gYear>",,,,,,,X,X,,,,,
+<http://dbpedia.org/ontology/deathPlace>:-:<http://dbpedia.org/resource/India>,,,X,,,,,,,,,,
+<http://dbpedia.org/ontology/deathPlace>:-:<http://dbpedia.org/resource/Shillong>,,,X,,,,,X,,,,,
+"<http://dbpedia.org/ontology/birthDate>:-:""1946-02-01""^^<http://www.w3.org/2001/XMLSchema#date>",,X,,,,,X,X,,,,,
+"<http://xmlns.com/foaf/0.1/surname>:-:""Mawlong""@en",,,,X,,,,,,,X,,X
+<http://dbpedia.org/ontology/birthPlace>:-:<http://dbpedia.org/resource/East_Khasi_Hills_district>,,,,,X,,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2008_deaths>,X,,,,,,,X,,,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""E. K. Mawlong""@en",,,,X,,,,,,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:People_from_Shillong>,,,X,,,,,X,,,,,
+<http://dbpedia.org/ontology/deathPlace>:-:<http://dbpedia.org/resource/Meghalaya>,,,X,,,,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Chief_Ministers_of_Meghalaya>,,,X,,,,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://xmlns.com/foaf/0.1/Person>,,,,,,,,,,X,,,
+<http://dbpedia.org/ontology/birthPlace>:-:<http://dbpedia.org/resource/Mawmih>,,,,,X,,,,,,,,
+"<http://dbpedia.org/ontology/deathDate>:-:""2008-10-18""^^<http://www.w3.org/2001/XMLSchema#date>",X,,,,,X,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Person>,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q215627>,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Agent>,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q5>,,,,,,,,,,X,,,

@@ -1,0 +1,23 @@
+,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/director>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/series>,<http://xmlns.com/foaf/0.1/name>
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Universal_Pictures_films>,,,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Films_directed_by_Walter_Lantz>,,,X,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1930s_comedy_films>,,,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Films_about_dogs>,,,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:American_films>,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Cartoon>,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1930s_American_animated_films>,,,,X,,
+<http://dbpedia.org/ontology/series>:-:<http://dbpedia.org/resource/Pooch_the_Pup>,,X,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Auto_racing_films>,,,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Black-and-white_films>,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Work>,X,,,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""The Crowd Snores""@en",,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/CreativeWork>,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:English-language_films>,,,,X,,
+"<http://xmlns.com/foaf/0.1/name>:-:""The Crowd Snores""@en",,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/HollywoodCartoon>,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Walter_Lantz_Productions_shorts>,,,X,X,,
+<http://dbpedia.org/ontology/director>:-:<http://dbpedia.org/resource/Walter_Lantz>,,,X,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1932_animated_films>,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q386724>,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q627603>,X,,,,,

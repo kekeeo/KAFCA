@@ -1,0 +1,34 @@
+,<http://dbpedia.org/ontology/phylum>,<http://dbpedia.org/ontology/genus>,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/binomialAuthority>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/kingdom>,<http://dbpedia.org/ontology/order>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/class>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/conservationStatus>,<http://dbpedia.org/ontology/family>,<http://dbpedia.org/ontology/conservationStatusSystem>,<http://xmlns.com/foaf/0.1/depiction>
+"<http://dbpedia.org/ontology/conservationStatusSystem>:-:""IUCN3.1""",,,,,,,,,,,,,,X,
+"<http://dbpedia.org/ontology/thumbnail>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Tockus_nasutus_-near_Sawela_Lodge,_Lake_Naivasha,_Kenya_-female-8.jpg?width=300>",,X,X,,,,,X,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_the_Republic_of_the_Congo>,,,,,,,,X,X,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Species>,,,,,,,,,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_Africa>,,,,,,,,X,X,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_Namibia>,,,,,,,,X,X,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Hornbills>,,,,,X,,,X,,,X,,X,,
+<http://dbpedia.org/ontology/kingdom>:-:<http://dbpedia.org/resource/Animal>,,,,,,X,,,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_Gabon>,,,,,,,,X,X,X,,,,,
+<http://dbpedia.org/ontology/binomialAuthority>:-:<http://dbpedia.org/resource/Carl_Linnaeus>,,,,X,,,,X,,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_Equatorial_Guinea>,,,,,,,,X,X,X,,,,,
+<http://xmlns.com/foaf/0.1/depiction>:-:<http://dbpedia.org/resource/Lake_Naivasha>,,,X,,,,,,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_Asia>,,,,,,,,X,X,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Animals_described_in_1766>,,,,,,X,,X,,X,,,,,
+<http://dbpedia.org/ontology/phylum>:-:<http://dbpedia.org/resource/Chordate>,X,,,,,,,,,,,,,,
+<http://dbpedia.org/ontology/genus>:-:<http://dbpedia.org/resource/Tockus>,,X,X,,,,,X,,,,,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""African grey hornbill""@en",,,,,X,,,X,,,X,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_South_Africa>,,,,,,,,X,X,X,,,,,
+"<http://xmlns.com/foaf/0.1/depiction>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Tockus_nasutus_-near_Sawela_Lodge,_Lake_Naivasha,_Kenya_-female-8.jpg>",,X,X,,,,,X,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Animal>,,,,,,X,,,,X,,,,,
+<http://dbpedia.org/ontology/family>:-:<http://dbpedia.org/resource/Hornbill>,,,,,X,,,,,,X,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_Kenya>,,,X,,,,,X,X,X,,,,,X
+<http://dbpedia.org/ontology/class>:-:<http://dbpedia.org/resource/Bird>,,,,,,,,,X,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Tockus>,,X,X,,,,,X,,,,,,,X
+<http://dbpedia.org/ontology/order>:-:<http://dbpedia.org/resource/Bucerotiformes>,,,,,,,X,,,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Birds_of_Cameroon>,,,,,,,,X,X,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Bird>,,,,,,,,,X,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Eukaryote>,,,,,,,,,,X,,,,,
+"<http://dbpedia.org/ontology/conservationStatus>:-:""LC""",,,,,,,,,,,,X,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""African grey hornbill""@en",,,,,X,,,X,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q729>,,,,,,,,,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,,X,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q19088>,,,,,,,,,,X,,,,,

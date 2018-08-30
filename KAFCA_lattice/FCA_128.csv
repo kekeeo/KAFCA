@@ -1,0 +1,36 @@
+,<http://xmlns.com/foaf/0.1/page>,<http://data.linkedmdb.org/resource/movie/actor_nytimes_id>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://data.linkedmdb.org/resource/movie/actor>,<http://data.linkedmdb.org/resource/movie/actor_name>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://data.linkedmdb.org/resource/movie/actor_actorid>,<http://data.linkedmdb.org/resource/movie/actor_netflix_id>,<http://data.linkedmdb.org/resource/movie/performance>
+"<http://data.linkedmdb.org/resource/movie/actor_actorid>:-:""32648""^^<http://www.w3.org/2001/XMLSchema#int>",,,,,,,X,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/61816>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/132536>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/54902>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/124479>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/60878>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/125790>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/121912>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/68310>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/63080>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/114399>,,,,,,,,,X
+<http://xmlns.com/foaf/0.1/page>:-:<http://www.freebase.com/view/guid/9202a8c04000641f800000000028c1a8>,X,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/59061>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/129624>,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://data.linkedmdb.org/resource/movie/actor>,,,,,,X,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/24490>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/62972>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/56333>,,,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://xmlns.com/foaf/0.1/Person>,,,,,,X,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/127422>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/127454>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/127572>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/62997>,,,,X,,,,,
+"<http://data.linkedmdb.org/resource/movie/actor_nytimes_id>:-:""""",,X,,,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/49130>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/64477>,,,,X,,,,,
+"<http://data.linkedmdb.org/resource/movie/actor_name>:-:""Tomokazu Seki""",,,X,,X,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/1531>,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/10267>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/12047>,,,,X,,,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Tomokazu Seki (Actor)""",,,X,,X,X,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/105895>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/21380>,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/film/2473>,,,,X,,,,,
+"<http://data.linkedmdb.org/resource/movie/actor_netflix_id>:-:""""",,,,,,,,X,

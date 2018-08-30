@@ -1,0 +1,24 @@
+,<http://www.w3.org/2000/01/rdf-schema#label>,<http://xmlns.com/foaf/0.1/homepage>,<http://dbpedia.org/ontology/programmeFormat>,<http://dbpedia.org/ontology/broadcastArea>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/slogan>,<http://dbpedia.org/ontology/callsignMeaning>
+<http://xmlns.com/foaf/0.1/homepage>:-:<http://3wayfm.org.au>,X,X,,,,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Radio_stations_established_in_1990>,,,X,,X,X,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Community_radio_stations_in_Australia>,,,X,,X,X,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Organization>,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Broadcaster>,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/RadioStation>,,,X,,X,X,,X,
+"<http://dbpedia.org/ontology/callsignMeaning>:-:""Warrnambool And You""",,,,X,,,,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""3WAY FM""@en",X,,,,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson>,,,,,,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Radio_stations_in_Victoria>,,,X,X,X,X,,X,X
+<http://dbpedia.org/ontology/broadcastArea>:-:<http://dbpedia.org/resource/Victoria_(Australia)>,,,,X,X,,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""3WAY FM""@en",X,,,,,,X,,X
+"<http://dbpedia.org/ontology/callsignMeaning>:-:""3 - Victoria""",,,,X,X,,,,X
+"<http://dbpedia.org/ontology/slogan>:-:""Great Ocean Radio""@en",,,X,,X,X,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/RadioStation>,,,X,,X,X,,X,
+<http://dbpedia.org/ontology/broadcastArea>:-:<http://dbpedia.org/resource/Warrnambool>,,,,X,,,,,X
+<http://dbpedia.org/ontology/programmeFormat>:-:<http://dbpedia.org/resource/Community_radio>,,,X,,X,X,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Organisation>,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,X,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Agent>,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q43229>,,,,,,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q15265344>,,,,,,X,,,X

@@ -1,0 +1,27 @@
+,<http://data.linkedmdb.org/resource/movie/initial_release_date>,<http://xmlns.com/foaf/0.1/made>,<http://data.linkedmdb.org/resource/movie/filmid>,<http://data.linkedmdb.org/resource/movie/producer>,<http://data.linkedmdb.org/resource/oddlinker/link_source>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://data.linkedmdb.org/resource/movie/actor>,<http://data.linkedmdb.org/resource/movie/language>,<http://xmlns.com/foaf/0.1/page>,<http://purl.org/dc/terms/date>,<http://dbpedia.org/property/hasPhotoCollection>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://purl.org/dc/terms/title>,<http://data.linkedmdb.org/resource/movie/director>,<http://data.linkedmdb.org/resource/movie/performance>
+"<http://purl.org/dc/terms/date>:-:""2001,2001-11-27""",X,,,,,,,,,X,,,,,
+<http://data.linkedmdb.org/resource/oddlinker/link_source>:-:<http://data.linkedmdb.org/resource/interlink/74894>,,,,,X,,,,,,,,,,
+<http://data.linkedmdb.org/resource/oddlinker/link_source>:-:<http://data.linkedmdb.org/resource/interlink/6219>,,,,,X,,,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/39031>,,,,,,,X,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/producer>:-:<http://data.linkedmdb.org/resource/producer/9896>,,,,X,,,,,,,,,,,
+<http://data.linkedmdb.org/resource/oddlinker/link_source>:-:<http://data.linkedmdb.org/resource/interlink/43285>,,,,,X,,,,,,,,,,
+<http://xmlns.com/foaf/0.1/page>:-:<http://www.freebase.com/view/guid/9202a8c04000641f80000000055827c2>,,,,,,,,,X,,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/30040>,,,,,,,X,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/72396>,,,,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/oddlinker/link_source>:-:<http://data.linkedmdb.org/resource/interlink/24752>,,,,,X,,,,,,,,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Briana Loves Jenna""",,,,,,X,,X,,,X,,X,,
+<http://data.linkedmdb.org/resource/oddlinker/link_source>:-:<http://data.linkedmdb.org/resource/interlink/145197>,,,,,X,,,,,,,,,,
+"<http://data.linkedmdb.org/resource/movie/filmid>:-:""14299""^^<http://www.w3.org/2001/XMLSchema#int>",,,X,,,,,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/producer>:-:<http://data.linkedmdb.org/resource/producer/5952>,,,,X,,,,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/director>:-:<http://data.linkedmdb.org/resource/director/2930>,,X,,,,,,,,,,,,X,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/31497>,,,,,,,X,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/language>:-:<http://www.lingvoj.org/lingvo/en>,,,,,,,,X,,,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/55464>,,,,,,,,,,,,,,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/70953>,,,,,,,,,,,,,,,X
+"<http://data.linkedmdb.org/resource/movie/initial_release_date>:-:""2001,2001-11-27""",X,,,,,,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/72536>,,,,,,,,,,,,,,,X
+"<http://purl.org/dc/terms/title>:-:""Briana Loves Jenna""",,,,,,X,,X,,,X,,X,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/32619>,,,,,,,X,,,,,,,,
+<http://dbpedia.org/property/hasPhotoCollection>:-:<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Briana_Loves_Jenna>,,,,,,X,,X,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://data.linkedmdb.org/resource/movie/film>,,,,,,,,,,,,X,,,
+<http://xmlns.com/foaf/0.1/made>:-:<http://data.linkedmdb.org/resource/director/2930>,,X,,,,,,,,,,,,X,

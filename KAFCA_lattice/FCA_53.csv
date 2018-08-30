@@ -1,0 +1,30 @@
+,<http://dbpedia.org/ontology/deathYear>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/birthDate>,<http://xmlns.com/foaf/0.1/givenName>,<http://dbpedia.org/ontology/deathDate>,<http://dbpedia.org/ontology/birthYear>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://purl.org/dc/elements/1.1/description>,<http://xmlns.com/foaf/0.1/surname>
+"<http://purl.org/dc/elements/1.1/description>:-:""American psychologist""@en",,,,,,,X,,,X,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Edmund Smith Conklin""@en",,X,,X,,,,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Anomalistic_psychology>,,,,,,,X,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Indiana_University_faculty>,,,,,,,X,,,,
+"<http://dbpedia.org/ontology/birthDate>:-:""1884-04-19""^^<http://www.w3.org/2001/XMLSchema#date>",,,X,,,X,X,,,,
+"<http://dbpedia.org/ontology/birthYear>:-:""1884""^^<http://www.w3.org/2001/XMLSchema#gYear>",,,,,,X,X,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:American_psychologists>,,,,,,,X,,,X,
+"<http://xmlns.com/foaf/0.1/givenName>:-:""Edmund Smith""@en",,X,,X,,,,,X,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Conklin, Edmund Smith""@en",,X,,X,,,,,X,,X
+"<http://purl.org/dc/elements/1.1/description>:-:""American psychologist""",,,,,,,X,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://xmlns.com/foaf/0.1/Person>,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Person>,,,,,,,,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1884_births>,,,,,,X,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Person>,,,,,,,,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1942_deaths>,X,,,,,,X,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:University_of_Chicago_alumni>,,,,,,,X,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Syracuse_University_faculty>,,,,,,,X,,,,
+"<http://dbpedia.org/ontology/deathDate>:-:""1942-10-06""^^<http://www.w3.org/2001/XMLSchema#date>",X,,,,X,,X,,,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Edmund Smith Conklin""@en",,X,,X,,,,,X,,X
+"<http://xmlns.com/foaf/0.1/surname>:-:""Conklin""@en",,X,,,,,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,,,,,,,,X,,,
+"<http://dbpedia.org/ontology/deathYear>:-:""1942""^^<http://www.w3.org/2001/XMLSchema#gYear>",X,,,,,,X,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Clark_University_alumni>,,,,,,,X,,,,
+"<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:People_from_New_Britain,_Connecticut>",,,,,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q215627>,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q5>,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Agent>,,,,,,,,X,,,

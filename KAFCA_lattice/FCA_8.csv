@@ -1,0 +1,59 @@
+,<http://dbpedia.org/ontology/basedOn>,<http://dbpedia.org/ontology/deathYear>,<http://dbpedia.org/ontology/birthDate>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://xmlns.com/foaf/0.1/givenName>,<http://dbpedia.org/ontology/deathDate>,<http://dbpedia.org/ontology/birthYear>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/imdbId>,<http://xmlns.com/foaf/0.1/name>,<http://purl.org/dc/elements/1.1/description>,<http://xmlns.com/foaf/0.1/surname>,<http://dbpedia.org/ontology/writer>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Whole100003553>,,,,X,,,,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Women_television_writers>,,,,X,,,,,X,,,X,,X
+"<http://dbpedia.org/ontology/birthYear>:-:""1905""^^<http://www.w3.org/2001/XMLSchema#gYear>",,,,,,,,X,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PhysicalEntity100001930>,,,,X,,,,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:American_television_writers>,,,,X,,,,,X,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/WomenTelevisionWriters>,,,,X,,,,,X,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Writer110794014>,,,,X,,,,,,,,X,,X
+<http://dbpedia.org/ontology/writer>:-:<http://dbpedia.org/resource/Bringing_Up_Baby>,,,,,,,,,,,,,,X
+<http://dbpedia.org/ontology/writer>:-:<http://dbpedia.org/resource/I_Was_a_Male_War_Bride>,,,,,,,,,,,,,,X
+"<http://purl.org/dc/elements/1.1/description>:-:""American writer""",,,,X,,,,,X,,,X,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Hagar Wilde""@en",,,,,X,X,,,,,X,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Place_of_birth_missing>,,,,,,,,,X,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1971_deaths>,,X,,,,,,,X,,,,,X
+"<http://dbpedia.org/ontology/writer>:-:<http://dbpedia.org/resource/Red,_Hot_and_Blue_(film)>",,,,,,,,,,,,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Hagar Wilde""@en",,,,,X,X,,,,,X,,X,X
+"<http://dbpedia.org/ontology/imdbId>:-:""0928444""",,,,,,,,,,X,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:20th-century_American_writers>,,,,X,,,,,X,,,X,,X
+<http://dbpedia.org/ontology/writer>:-:<http://dbpedia.org/resource/The_Unseen_(1945_film)>,,,,,,,,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:20th-century_women_writers>,,,,X,,,,,X,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Person>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://xmlns.com/foaf/0.1/Person>,,,,X,,,,,,,,,,X
+"<http://dbpedia.org/ontology/deathYear>:-:""1971""^^<http://www.w3.org/2001/XMLSchema#gYear>",,X,,,,,,,X,,,,,X
+"<http://dbpedia.org/ontology/deathDate>:-:""1971-09-25""^^<http://www.w3.org/2001/XMLSchema#date>",,X,,,,,X,,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/AmericanScreenwriters>,,,,X,,,,,X,,,X,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Wilde, Hagar""@en",,,,,X,X,,,,,X,,X,X
+"<http://xmlns.com/foaf/0.1/givenName>:-:""Hagar""@en",,,,,X,X,,,,,X,,,X
+"<http://dbpedia.org/ontology/birthDate>:-:""1905-07-07""^^<http://www.w3.org/2001/XMLSchema#date>",,,X,,,,,X,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Object100002684>,,,,X,,,,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:American_women_screenwriters>,,,,X,,,,,X,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Organism100004475>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/ScreenWriter>,,,,X,,,,,,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Writer>,,,,X,,,,,,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/AmericanTelevisionWriters>,,,,X,,,,,X,,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1905_births>,,,,,,,,X,X,,,,,X
+"<http://xmlns.com/foaf/0.1/surname>:-:""Wilde""@en",,,,,X,,,,,,X,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Person100007846>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Screenwriter110564400>,,,,X,,,,,,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/AmericanShortStoryWriters>,,,,X,,,,,X,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Scriptwriter110564905>,,,,X,,,,,,,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:American_women_short_story_writers>,,,,X,,,,,X,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoLegalActor>,,,,X,,,,,,,,,,X
+<http://dbpedia.org/ontology/writer>:-:<http://dbpedia.org/resource/Carefree_(film)>,,,,,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Person>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Communicator109610660>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoLegalActorGeo>,,,,X,,,,,,,,,,X
+"<http://purl.org/dc/elements/1.1/description>:-:""American writer""@en",,,,X,,,,,X,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/WomenScreenwriters>,,,,X,,,,,X,,,X,,X
+<http://dbpedia.org/ontology/basedOn>:-:<http://dbpedia.org/resource/Fired_Wife>,X,,,,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Agent>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/CausalAgent100007347>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q215627>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/LivingThing100004258>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q5>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q36180>,,,,X,,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q28389>,,,,X,,,,,,,,,,X

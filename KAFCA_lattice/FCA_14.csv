@@ -1,0 +1,25 @@
+,<http://dbpedia.org/ontology/category>,<http://dbpedia.org/ontology/championInDoubleMale>,<http://dbpedia.org/ontology/championInSingleMale>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/location>,<http://dbpedia.org/ontology/tennisSurfaceType>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://dbpedia.org/ontology/budget>,<http://xmlns.com/foaf/0.1/homepage>
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Sparta_Prague_Open>,X,,,X,X,,X,,,X
+<http://xmlns.com/foaf/0.1/homepage>:-:<http://www.spartapragueopen.cz/en>,,,,X,X,,X,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,X,,,,,,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Event>,X,,,,,,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/TennisTournament>,X,,,,,,X,X,,X
+<http://dbpedia.org/ontology/championInDoubleMale>:-:<http://dbpedia.org/resource/Petra_Cetkovská>,X,X,,,,,X,,,
+<http://dbpedia.org/ontology/category>:-:<http://dbpedia.org/resource/ITF_Women's_Circuit>,X,,,,,,X,,,X
+"<http://dbpedia.org/ontology/tennisSurfaceType>:-:""Clay""",,,,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/SportsEvent>,,,,,,,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SocietalEvent>,X,,,,,,X,X,,X
+<http://dbpedia.org/ontology/championInDoubleMale>:-:<http://dbpedia.org/resource/Michaëlla_Krajicek>,X,X,,,,,X,,,
+"<http://dbpedia.org/ontology/budget>:-:""100000.0""^^<http://dbpedia.org/datatype/usDollar>",X,,,,,,X,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Tournament>,X,,,,,,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SportsEvent>,X,,,,,,X,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2011_in_Czech_sport>,X,,,X,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Event>,,,,,,,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2011_ITF_Women's_Circuit>,X,,,X,,,X,,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""2011 Sparta Prague Open""@en",,,,X,X,,X,,,X
+<http://dbpedia.org/ontology/location>:-:<http://dbpedia.org/resource/Prague>,X,,,X,X,,X,,,
+<http://dbpedia.org/ontology/championInSingleMale>:-:<http://dbpedia.org/resource/Magdaléna_Rybáriková>,X,,X,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q13219666>,X,,,,,,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q500834>,X,,,,,,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,X,,,,,,X,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q1656682>,X,,,,,,X,X,,X

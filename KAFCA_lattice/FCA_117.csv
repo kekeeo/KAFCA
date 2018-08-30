@@ -1,0 +1,26 @@
+,<http://data.linkedmdb.org/resource/movie/initial_release_date>,<http://data.linkedmdb.org/resource/movie/production_company>,<http://xmlns.com/foaf/0.1/made>,<http://data.linkedmdb.org/resource/movie/filmid>,<http://xmlns.com/foaf/0.1/page>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://data.linkedmdb.org/resource/movie/actor>,<http://purl.org/dc/terms/date>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://purl.org/dc/terms/title>,<http://data.linkedmdb.org/resource/movie/director>,<http://data.linkedmdb.org/resource/movie/performance>
+<http://xmlns.com/foaf/0.1/page>:-:<http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a4b>,,,,,X,X,,,,X,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/144085>,,,,,,X,,,,X,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/60322>,,,,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/144091>,,,,,,X,,,,X,,X
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/144088>,,,,,,X,,,,X,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/60321>,,,,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/144087>,,,,,,X,,,,X,,X
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/59932>,,,,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/director>:-:<http://data.linkedmdb.org/resource/director/812>,,,X,,,,,,,,X,
+"<http://data.linkedmdb.org/resource/movie/initial_release_date>:-:""2006""",X,,,,,,,X,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/144086>,,,,,,X,,,,X,,X
+"<http://purl.org/dc/terms/title>:-:""Routine Check Ups 4""",,,,,,X,,,,X,,
+"<http://purl.org/dc/terms/date>:-:""2006""",X,,,,,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://data.linkedmdb.org/resource/movie/film>,,,,,,,,,X,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/59936>,,,,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/59938>,,,,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/60310>,,,,,,,X,,,,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/144090>,,,,,,X,,,,X,,X
+<http://xmlns.com/foaf/0.1/made>:-:<http://data.linkedmdb.org/resource/director/812>,,,X,,,,,,,,X,
+"<http://data.linkedmdb.org/resource/movie/filmid>:-:""70866""^^<http://www.w3.org/2001/XMLSchema#int>",,,,X,,,,,,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Routine Check Ups 4""",,,,,,X,,,,X,,
+<http://data.linkedmdb.org/resource/movie/performance>:-:<http://data.linkedmdb.org/resource/performance/144089>,,,,,,X,,,,X,,X
+<http://data.linkedmdb.org/resource/movie/production_company>:-:<http://data.linkedmdb.org/resource/production_company/368>,,X,,,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/production_company>:-:<http://data.linkedmdb.org/resource/production_company/197>,,X,,,,,,,,,,
+<http://data.linkedmdb.org/resource/movie/actor>:-:<http://data.linkedmdb.org/resource/actor/60309>,,,,,,,X,,,,,

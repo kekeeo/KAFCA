@@ -1,0 +1,32 @@
+,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/genre>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/runtime>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/recordLabel>,<http://xmlns.com/foaf/0.1/homepage>,<http://xmlns.com/foaf/0.1/depiction>
+<http://dbpedia.org/ontology/recordLabel>:-:<http://dbpedia.org/resource/Capitol_Records>,,,,,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/CreativeWork>,,,,,,X,,X,,
+<http://xmlns.com/foaf/0.1/depiction>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg>,X,,,,X,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/1986Albums>,X,,,,X,X,X,X,,X
+"<http://dbpedia.org/ontology/runtime>:-:""6129.0""^^<http://www.w3.org/2001/XMLSchema#double>",,,,X,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Work>,,,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Whole100003553>,,,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/ConceptAlbum106592078>,X,,,,X,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PhysicalEntity100001930>,,,,,,X,,X,,
+<http://dbpedia.org/ontology/recordLabel>:-:<http://dbpedia.org/resource/EMI>,,,,,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Medium106254669>,,,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/ConceptAlbums>,X,,,,X,X,X,X,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Time (Dave Clark album)""@en",X,,X,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/MusicalWork>,,X,,,,X,,X,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Concept_albums>,X,,,,X,X,X,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1986_albums>,X,,,,X,X,X,X,,X
+<http://dbpedia.org/ontology/thumbnail>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg?width=300>,X,,,,X,X,X,X,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Dave Clark's \""Time\"": The Album""@en",X,,X,,,X,X,X,,X
+<http://xmlns.com/foaf/0.1/homepage>:-:<http://www.time-themusical.com/>,X,X,X,,,X,X,X,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Object100002684>,,,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/MusicAlbum>,X,X,,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Album106591815>,X,,,,,X,X,X,,X
+<http://dbpedia.org/ontology/genre>:-:<http://dbpedia.org/resource/Pop_rock>,,X,,,,,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Artifact100021939>,,,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Instrumentality103575240>,,,,,,X,,X,,
+<http://dbpedia.org/ontology/genre>:-:<http://dbpedia.org/resource/Rock_music>,,X,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Album>,X,,,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q386724>,,,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q482994>,,,,,,X,,X,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q2188189>,,,,,,X,,X,,

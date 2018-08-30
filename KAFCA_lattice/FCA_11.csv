@@ -1,0 +1,24 @@
+,<http://dbpedia.org/ontology/time>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://xmlns.com/foaf/0.1/homepage>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SportsEvent>,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Event>,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/SportsEvent>,,,,,X,
+"<http://dbpedia.org/ontology/time>:-:""19:00 CET""",X,,,,,
+"<http://dbpedia.org/ontology/time>:-:""16:30 CEST""",X,,,,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Swiss Cup""@en",,X,,X,,X
+<http://xmlns.com/foaf/0.1/homepage>:-:<http://www.football.ch/sfv/chcup/de/start.aspx>,,X,X,X,,X
+"<http://dbpedia.org/ontology/time>:-:""17:45 CET""",X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2009–10_in_Swiss_football>,,X,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SocietalEvent>,,,,,X,
+"<http://dbpedia.org/ontology/time>:-:""14:00 CET""",X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Event>,,,,,X,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Swiss_Cup>,,X,,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2009–10_domestic_association_football_cups>,,X,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Tournament>,,,,,X,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""2009–10 Swiss Cup""@en",,X,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SoccerTournament>,,,,,X,
+"<http://dbpedia.org/ontology/time>:-:""14:30 CET""",X,,,,,
+"<http://dbpedia.org/ontology/time>:-:""14:00 CEST""",X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q1656682>,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,X,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q500834>,,,,,X,

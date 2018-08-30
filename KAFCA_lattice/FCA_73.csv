@@ -1,0 +1,38 @@
+,<http://dbpedia.org/ontology/postalCode>,<http://www.w3.org/2003/01/geo/wgs84_pos#long>,<http://dbpedia.org/ontology/areaCode>,<http://dbpedia.org/ontology/populationTotal>,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/gridReference>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://www.georss.org/georss/point>,<http://dbpedia.org/ontology/country>,<http://dbpedia.org/ontology/district>,<http://purl.org/dc/terms/subject>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://www.w3.org/2003/01/geo/wgs84_pos#lat>,<http://xmlns.com/foaf/0.1/depiction>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PhysicalEntity100001930>,X,,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Village108672738>,X,,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Settlement>,X,,,,,X,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/PopulatedPlace>,X,,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoGeoEntity>,X,,,,,,,,,,,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Civil_parishes_in_Cambridgeshire>,X,,,,,,,,X,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Region108630985>,X,,,,,,,,,,,X,,,
+"<http://dbpedia.org/ontology/postalCode>:-:""PE28 2""",X,,,,,,,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,X,,,,,X,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/GeographicalArea108574314>,X,,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Settlement108672562>,X,,,,,X,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Location100027167>,X,,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/VillagesInCambridgeshire>,X,,,,,,,,X,,X,X,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Huntingdonshire>,X,,,,,,,,,X,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Place>,,,,,,,,,,,,X,,,
+<http://dbpedia.org/ontology/district>:-:<http://dbpedia.org/resource/Huntingdonshire>,X,,,,,,,,,X,X,X,,,
+"<http://www.georss.org/georss/point>:-:""52.37 -0.15""",X,X,,,X,,,X,,,,,,X,X
+"<http://dbpedia.org/ontology/gridReference>:-:""TL260765""",X,,,,,X,,,,,,,,,
+<http://dbpedia.org/ontology/country>:-:<http://dbpedia.org/resource/United_Kingdom>,X,,,,,,,,X,,X,X,,,
+<http://dbpedia.org/ontology/country>:-:<http://dbpedia.org/resource/England>,X,,,,,,,,X,,,,,,
+"<http://www.w3.org/2003/01/geo/wgs84_pos#long>:-:""-0.15""^^<http://www.w3.org/2001/XMLSchema#float>",X,X,,,X,,,X,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Object100002684>,X,,,,,,,,,,,X,,,
+"<http://dbpedia.org/ontology/areaCode>:-:""01487""",,,X,,,,,,,,,,,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Kings Ripton""@en",,,,,X,,X,,,,X,X,X,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Villages_in_Cambridgeshire>,X,,,,,,,,X,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoLegalActorGeo>,X,,,,,,,,,,,X,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Kings Ripton""@en",,,,,X,,X,,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Location>,X,,,,,,,,,,,X,,,
+"<http://www.w3.org/2003/01/geo/wgs84_pos#lat>:-:""52.37""^^<http://www.w3.org/2001/XMLSchema#float>",X,,,,,,,X,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Place>,X,,,,,,,,,,,X,,,
+"<http://dbpedia.org/ontology/populationTotal>:-:""168""^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>",X,,,X,,,,,,,X,X,,,
+"<http://xmlns.com/foaf/0.1/depiction>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg>",X,,,,X,,X,,,,X,X,X,,X
+<http://dbpedia.org/ontology/country>:-:<http://dbpedia.org/resource/Cambridgeshire>,X,,,,,,,,X,,X,X,,,
+"<http://dbpedia.org/ontology/thumbnail>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg?width=300>",X,,,,X,,X,,,,X,X,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>,X,,,,,,,,,,X,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q486972>,X,,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,X,,,,,,,,,,X,X,,,

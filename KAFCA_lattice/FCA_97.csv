@@ -1,0 +1,34 @@
+,<http://dbpedia.org/ontology/musicalBand>,<http://dbpedia.org/ontology/musicalArtist>,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/genre>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/album>,<http://dbpedia.org/ontology/runtime>,<http://dbpedia.org/ontology/format>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/subsequentWork>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/previousWork>,<http://dbpedia.org/ontology/recordLabel>,<http://dbpedia.org/ontology/recordDate>,<http://dbpedia.org/ontology/writer>,<http://xmlns.com/foaf/0.1/depiction>
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Glam_metal_songs>,,,X,X,X,X,,,X,,,X,,,,,X
+<http://dbpedia.org/ontology/genre>:-:<http://dbpedia.org/resource/Hard_rock>,,,X,X,,,,,X,,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:2011_singles>,,,X,,,,,,X,X,X,,X,,,,X
+<http://dbpedia.org/ontology/thumbnail>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg?width=300>,,,X,,,X,,,X,,,,,,,,X
+<http://xmlns.com/foaf/0.1/depiction>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg>,,,X,,,X,,,X,,,,,,,,X
+<http://dbpedia.org/ontology/album>:-:<http://dbpedia.org/resource/Set_the_World_on_Fire_(Black_Veil_Brides_album)>,X,X,X,,,X,,,X,X,,,X,,,X,X
+<http://dbpedia.org/ontology/genre>:-:<http://dbpedia.org/resource/Glam_metal>,,,X,X,,,,,X,,,,,,,,X
+<http://dbpedia.org/ontology/previousWork>:-:<http://dbpedia.org/resource/The_Legacy_(song)>,,,X,,X,X,,,,X,,X,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/CreativeWork>,,,,,,,,,,,X,,,,,,
+<http://dbpedia.org/ontology/musicalArtist>:-:<http://dbpedia.org/resource/Black_Veil_Brides>,X,X,X,,,X,,,X,X,,,X,,,X,X
+<http://dbpedia.org/ontology/writer>:-:<http://dbpedia.org/resource/Black_Veil_Brides>,X,X,X,,,X,,,X,X,,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Single>,,,X,,,X,,,,X,X,,X,,,,X
+<http://dbpedia.org/ontology/previousWork>:-:<http://dbpedia.org/resource/Unholy_(song)>,,,X,,X,X,,,,X,,X,X,,,,X
+<http://dbpedia.org/ontology/subsequentWork>:-:<http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)>,X,X,X,,X,X,,,X,X,,X,X,,,X,X
+<http://dbpedia.org/ontology/recordLabel>:-:<http://dbpedia.org/resource/Universal_Republic_Records>,,,X,,,,,,,,,,,X,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Songs_written_by_Andy_Biersack>,,,X,,X,X,,,X,,,X,,,,,X
+<http://dbpedia.org/ontology/musicalBand>:-:<http://dbpedia.org/resource/Black_Veil_Brides>,X,X,X,,,X,,,X,X,,,X,,,X,X
+<http://dbpedia.org/ontology/previousWork>:-:<http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)>,X,X,X,,X,X,,,X,X,,X,X,,,X,X
+<http://dbpedia.org/ontology/recordLabel>:-:<http://dbpedia.org/resource/Lava_Records>,,,X,,,,,,,,,,,X,,,X
+"<http://dbpedia.org/ontology/runtime>:-:""237.0""^^<http://www.w3.org/2001/XMLSchema#double>",,,X,,,,X,,,,,,,,,,X
+<http://dbpedia.org/ontology/format>:-:<http://dbpedia.org/resource/Music_download>,,,X,,,,,X,,,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Black_Veil_Brides_songs>,X,X,X,,X,X,,,X,X,,X,X,,,X,X
+"<http://dbpedia.org/ontology/recordDate>:-:""2011-08-22""^^<http://www.w3.org/2001/XMLSchema#date>",,,,,,,,,X,,,,,,X,,
+<http://dbpedia.org/ontology/subsequentWork>:-:<http://dbpedia.org/resource/The_Legacy_(song)>,,,X,,X,X,,,,X,,X,X,,,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Rebel Love Song""@en",,,X,,X,X,,,,,,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Work>,,,X,,,X,,,,,X,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/MusicalWork>,,,X,,,X,,X,,,X,,,,,,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Rebel Love Song""@en",,,X,,X,X,,,,,,X,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Hard_rock_songs>,,,X,X,X,X,,,X,,,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,,,,X,X,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q386724>,,,,,,,,,,,X,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q134556>,,,,,,,,,,,X,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q2188189>,,,,,,,,,,,X,,,,,,

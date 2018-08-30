@@ -1,0 +1,55 @@
+,<http://dbpedia.org/ontology/battle>,<http://dbpedia.org/ontology/isPartOfMilitaryConflict>,<http://dbpedia.org/ontology/combatant>,<http://dbpedia.org/ontology/result>,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/date>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/place>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/strength>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/causalties>,<http://xmlns.com/foaf/0.1/depiction>
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/South_Vietnam>,,X,,X,X,,X,,X,X,,,,X
+<http://dbpedia.org/ontology/isPartOfMilitaryConflict>:-:<http://dbpedia.org/resource/Vietnam_War>,,X,,X,X,,X,,X,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Battle100953559>,,,,,X,,X,,,,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Act100030358>,,,,,X,,X,,,,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Contest107456188>,,,,,X,,X,,,,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_Australia>,,X,,X,X,,X,,X,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,,,,,X,,X,,,,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Campaigns_of_the_Vietnam_War>,,X,,X,X,,X,,X,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Event>,,,,,,,X,,,,,,X,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Abstraction100002137>,,,,,X,,X,,,,,,X,X
+"<http://dbpedia.org/ontology/battle>:-:<http://dbpedia.org/resource/1st_Brigade_Combat_Team,_1st_Cavalry_Division_(United_States)>",X,,X,,X,,X,,,X,,,,X
+<http://dbpedia.org/ontology/thumbnail>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG?width=300>,,,,,X,,,X,,X,,X,X,X
+<http://dbpedia.org/ontology/battle>:-:<http://dbpedia.org/resource/173rd_Airborne_Brigade_Combat_Team>,X,,,,X,,,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingAustralia>,,X,,X,X,,X,,X,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://schema.org/Event>,,,,,X,,X,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/MilitaryConflict>,,,,,,,X,,,,,,X,
+"<http://dbpedia.org/ontology/combatant>:-:""22pxViet Cong""",,,X,X,,,,,,,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Conflicts_in_1965>,,,,,X,,X,,,X,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_involving_Vietnam>,,X,,X,X,,X,,X,X,,,,X
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Operation Hump""@en",,,,,X,,,X,,,,X,,X
+"<http://dbpedia.org/ontology/combatant>:-:""22pxAustralia""",,,X,,X,,X,,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PsychologicalFeature100023100>,,,,,X,,X,,,,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/SocietalEvent>,,,,,X,,X,,,,,,X,X
+"<http://dbpedia.org/ontology/combatant>:-:""22pxUnited States""",,,X,,X,,X,,,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesInvolvingVietnam>,,X,,X,X,,X,,X,X,,,,X
+<http://xmlns.com/foaf/0.1/depiction>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG>,,,,,X,,,X,,X,,X,X,X
+"<http://xmlns.com/foaf/0.1/name>:-:""Operation Hump""@en",,,,,X,,,X,,,,X,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Event100029378>,,,,,X,,X,,,,,,X,X
+<http://dbpedia.org/ontology/battle>:-:<http://dbpedia.org/resource/Lawrence_Joel>,X,,,,X,,,,,,,,,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_the_United_States>,,X,X,X,X,,X,,X,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/SocialEvent107288639>,,,,,X,,X,,,,,,X,X
+"<http://dbpedia.org/ontology/causalties>:-:""many more wounded""",,,,,X,,,,,,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/CampaignsOfTheVietnamWar>,,X,,X,X,,X,,X,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/GroupAction101080366>,,,,,X,,X,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Race107472657>,,,,,X,,X,,,,,,X,X
+"<http://dbpedia.org/ontology/causalties>:-:""48 US killed""",,,,,X,,,,,,,,X,X
+"<http://dbpedia.org/ontology/strength>:-:""Total Force around 400""",,,,,X,,,,,,X,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:1965_in_Vietnam>,,X,,X,X,,X,,X,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingTheUnitedStates>,,X,X,X,X,,X,,X,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/Conflict100958896>,,,,,X,,X,,,,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_New_Zealand>,,X,,X,X,,X,,X,X,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,,,,,X,,X,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/MilitaryAction100952963>,,,,,X,,X,,,,,,X,X
+"<http://dbpedia.org/ontology/result>:-:""United States/Australian victory, Viet Cong retreats.""",,,X,X,X,,X,,,X,,,X,X
+<http://dbpedia.org/ontology/place>:-:<http://dbpedia.org/resource/Biên_Hòa>,,,,,X,,,,X,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/ConflictsIn1965>,,,,,X,,X,,,X,,,X,X
+"<http://dbpedia.org/ontology/causalties>:-:""2 Australian MIA (located and repatriated to Australia 5 June 2007)""",,,,X,X,,X,,,X,,,X,X
+"<http://dbpedia.org/ontology/date>:-:""1965-11-08""^^<http://www.w3.org/2001/XMLSchema#date>",,,,,X,X,,,,X,,,X,X
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Dong_Nai_Province>,,,,,X,,X,,,X,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/PoliticalCampaign107472929>,,,,,X,,X,,,,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingNewZealand>,,X,,X,X,,X,,X,X,,,X,X
+"<http://dbpedia.org/ontology/strength>:-:""around 1200""",,,,,X,,,,,,X,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q1656682>,,,,,X,,X,,,,,,X,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,X,,,X,,,X,X

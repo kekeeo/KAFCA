@@ -1,0 +1,28 @@
+,<http://dbpedia.org/ontology/order>,<http://dbpedia.org/ontology/phylum>,<http://dbpedia.org/ontology/genus>,<http://dbpedia.org/ontology/thumbnail>,<http://dbpedia.org/ontology/binomialAuthority>,<http://www.w3.org/2000/01/rdf-schema#label>,<http://dbpedia.org/ontology/kingdom>,<http://purl.org/dc/terms/subject>,<http://dbpedia.org/ontology/class>,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>,<http://xmlns.com/foaf/0.1/name>,<http://dbpedia.org/ontology/conservationStatus>,<http://dbpedia.org/ontology/family>,<http://dbpedia.org/ontology/conservationStatusSystem>,<http://xmlns.com/foaf/0.1/depiction>
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Fish_of_Vietnam>,,,,,,,,X,,X,,,,,
+"<http://www.w3.org/2000/01/rdf-schema#label>:-:""Siamese mud carp""@en",,,,,,X,,X,,,X,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Species>,,,,,,,,,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Eukaryote>,,,,,,,,,,X,,,,,
+<http://dbpedia.org/ontology/family>:-:<http://dbpedia.org/resource/Cyprinidae>,,,,,,,,,,,,,X,,
+<http://dbpedia.org/ontology/order>:-:<http://dbpedia.org/resource/Cypriniformes>,X,,,,,,,,,,,,,,
+<http://dbpedia.org/ontology/kingdom>:-:<http://dbpedia.org/resource/Animal>,,,,,,,X,,,X,,,,,
+"<http://xmlns.com/foaf/0.1/name>:-:""Siamese mud carp""@en",,,,,,X,,X,,,X,,,,
+<http://dbpedia.org/ontology/thumbnail>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Mekong_river_location.jpg?width=300>,,,,X,,,,X,,,,,,,X
+"<http://dbpedia.org/ontology/conservationStatusSystem>:-:""iucn3.1""",,,,,,,,,,,,,,X,
+<http://xmlns.com/foaf/0.1/depiction>:-:<http://commons.wikimedia.org/wiki/Special:FilePath/Mekong_river_location.jpg>,,,,X,,,,X,,,,,,,X
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Animal>,,,,,,,X,,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Fish_of_the_Mekong_Basin>,,,,X,,,,X,,X,,,,,X
+<http://dbpedia.org/ontology/phylum>:-:<http://dbpedia.org/resource/Chordate>,,X,,,,,,,,,,,,,
+"<http://dbpedia.org/ontology/conservationStatus>:-:""LC""",,,,,,,,,,,,X,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://dbpedia.org/ontology/Fish>,,,,,,,,X,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Fish_of_Cambodia>,,,,,,,,X,,X,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Carp>,,,,,,X,,X,,,X,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Fish_of_Laos>,,,,,,,,X,,X,,,,,
+<http://dbpedia.org/ontology/genus>:-:<http://dbpedia.org/resource/Henicorhynchus>,,,X,,,,,,,,,,,,
+<http://dbpedia.org/ontology/class>:-:<http://dbpedia.org/resource/Actinopterygii>,,,,,,,,,X,,,,,,
+<http://purl.org/dc/terms/subject>:-:<http://dbpedia.org/resource/Category:Fish_of_Thailand>,,,,,,,,X,,X,,,,,
+<http://dbpedia.org/ontology/binomialAuthority>:-:<http://dbpedia.org/resource/Henri_Émile_Sauvage>,,,,,X,,,,,,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q19088>,,,,,,,,,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q152>,,,,,,,,,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.w3.org/2002/07/owl#Thing>,,,,,,,,,,X,,,,,
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>:-:<http://www.wikidata.org/entity/Q729>,,,,,,,,,,X,,,,,
