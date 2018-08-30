@@ -6,9 +6,18 @@
 *Proceedings of the 1st International Workshop on EntitY REtrieval (EYRE '18) co-located with CIKM 2018, Shared Tasks @ EYRE '18*<br/>
 
 ## Abstract
-==========
 This paper presents a novel approach to automatic entity summarization, which provides a smaller representative subset from a lengthy description. As a solution to this problem, we propose an entity summarization system based on Formal Concept Analysis (FCA). The effectiveness of our proposed system is illustrated by an experimental study using the Entity Summarization BenchMark, where we compare our system with six other systems. It shows that our system is superior to others with respect to F-measure performance measurements.
+
+## Evaluation Results
+We list the result of various methods in <a href='http://ws.nju.edu.cn/summarization/esbm/'>Entity Summarization BenchMark (ESBM)</a>.
+
+||DBpedia (k=5) | DBpedia (k=10) | LinkedMDB (k=5)| LinkedMDB (k=10)|All (k=5)|All (k=10)|
+
+
+## Code
+The codes are in the folder src/.
 
 
 ## Change Log
 Aug. 30, 2018 : Initial upload. version 1.0
+
