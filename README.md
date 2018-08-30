@@ -11,7 +11,7 @@ This paper presents a novel approach to automatic entity summarization, which pr
 ## Evaluation Results
 We list the result of various methods in <a href='http://ws.nju.edu.cn/summarization/esbm/'>Entity Summarization BenchMark (ESBM)</a>.
 
-* Table 1. F-measure of selected entity summarizers under their best parameter settings
+*Table 1. F-measure of selected entity summarizers under their best parameter settings
 <table>
 	<thead>
 		<tr>
@@ -62,7 +62,7 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 		<td name="td2">0.527</td>
 		<td name="td3"><b>0.252</b></td>
 		<td name="td4">0.348</td>
-		<td name="td5"><b>0.276</b></td>
+		<td name="td5">0.276</td>
 		<td name="td6">0.476</td>
 	</tr>
 	<tr>
@@ -83,7 +83,7 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 		<td name="td5">0.240</td>
 		<td name="td6">0.428</td>
 	</tr>
-	<tr>
+	<tr bgcolor=#5F4B8B>
 		<td><strong>KAFCA</strong></td>
 		<td name="td1"><b>0.332</td>
 		<td name="td2"><b>0.531</td>
