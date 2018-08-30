@@ -1,5 +1,4 @@
-# KAFCA
-KAIST summarization system using FCA
+# KAFCA (KAIST summarization system using FCA)
 
 
 **Improving Entity Summarization via Conceptual Analysis**<br/>
