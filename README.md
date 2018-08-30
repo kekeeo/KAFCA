@@ -11,6 +11,7 @@ This paper presents a novel approach to automatic entity summarization, which pr
 ## Evaluation Results
 We list the result of various methods in <a href='http://ws.nju.edu.cn/summarization/esbm/'>Entity Summarization BenchMark (ESBM)</a>.
 
+* Table 1. F-measure of selected entity summarizers under their best parameter settings
 <table>
 	<thead>
 		<tr>
@@ -42,14 +43,14 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 		<td name="td1">0.260</td>
 		<td name="td2">0.522</td>
 		<td name="td3">0.222</td>
-		<td name="td4"><b>0.365</b></td>
+		<td name="td4">0.365</td>
 		<td name="td5">0.249</td>
-		<td name="td6"><b>0.477</b></td>
+		<td name="td6">0.477</td>
 	</tr>
 	<tr>
 		<td>CD [3]<br></td>
-		<td name="td1"><b>0.299</b></td>
-		<td name="td2"><b>0.531</b></td>
+		<td name="td1">0.299</td>
+		<td name="td2">0.531</td>
 		<td name="td3">0.215</td>
 		<td name="td4">0.326</td>
 		<td name="td5">0.267</td>
@@ -75,11 +76,11 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 	</tr>
 	<tr>
 		<td>LinkSUM [6]</td>
-		<td name="td1">0.290<br><span>(&alpha;=0.01)</span></td>
+		<td name="td1">0.290</td>
 		<td name="td2">0.498</td>
-		<td name="td3">0.117<br><span>(&alpha;=1.00)</span></td>
-		<td name="td4">0.255<br><span>(&alpha;=1.00)</span></td>
-		<td name="td5">0.240<br><span>(&alpha;=0.01)</span></td>
+		<td name="td3">0.117</td>
+		<td name="td4">0.255</td>
+		<td name="td5">0.240</td>
 		<td name="td6">0.428</td>
 	</tr>
 	<tr>
