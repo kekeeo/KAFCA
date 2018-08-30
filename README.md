@@ -28,7 +28,6 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 			<th id="all1">k=10</th>
 		</tr>
 	</thead>
-
 	<tr>
 		<td>RELIN [1]</td>
 		<td name="td1">0.250</td>
@@ -90,12 +89,12 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 The codes are in the folder src/.
 
 ## References
-[1] Gong Cheng, Thanh Tran, Yuzhong Qu: RELIN: Relatedness and Informativeness-Based Centrality for Entity Summarization. International Semantic Web Conference (1) 2011: 114-129. 
-[2] Marcin Sydow, Mariusz Pikula, Ralf Schenkel: The notion of diversity in graphical entity summarisation on semantic knowledge graphs. J. Intell. Inf. Syst. 41(2): 109-149 (2013).
-[3] Danyun Xu, Liang Zheng, Yuzhong Qu: CD at ENSEC 2016: Generating Characteristic and Diverse Entity Summaries. SumPre@ESWC 2016.
-[4] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth, Gong Cheng: Gleaning Types for Literals in RDF Triples with Application to Entity Summarization. ESWC 2016: 85-100.
-[5] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth: FACES: Diversity-Aware Entity Summarization Using Incremental Hierarchical Conceptual Clustering. AAAI 2015: 116-122.
-[6] Andreas Thalhammer, Nelia Lasierra, Achim Rettinger: LinkSUM: Using Link Analysis to Summarize Entity Data. ICWE 2016: 244-261.
+[1] Gong Cheng, Thanh Tran, Yuzhong Qu: RELIN: Relatedness and Informativeness-Based Centrality for Entity Summarization. International Semantic Web Conference (1) 2011: 114-129. <br/>
+[2] Marcin Sydow, Mariusz Pikula, Ralf Schenkel: The notion of diversity in graphical entity summarisation on semantic knowledge graphs. J. Intell. Inf. Syst. 41(2): 109-149 (2013).<br/>
+[3] Danyun Xu, Liang Zheng, Yuzhong Qu: CD at ENSEC 2016: Generating Characteristic and Diverse Entity Summaries. SumPre@ESWC 2016.<br/>
+[4] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth, Gong Cheng: Gleaning Types for Literals in RDF Triples with Application to Entity Summarization. ESWC 2016: 85-100.<br/>
+[5] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth: FACES: Diversity-Aware Entity Summarization Using Incremental Hierarchical Conceptual Clustering. AAAI 2015: 116-122.<br/>
+[6] Andreas Thalhammer, Nelia Lasierra, Achim Rettinger: LinkSUM: Using Link Analysis to Summarize Entity Data. ICWE 2016: 244-261.<br/>
 
 ## Change Log
 Aug. 30, 2018 : Initial upload. version 1.0
