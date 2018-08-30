@@ -115,7 +115,7 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 	<tr>
 		<td>RELIN [1]</td>
 		<td name="td1">0.348</td>
-		<td name="td2"><b>0.532</b></td>
+		<td name="td2">0.532</td>
 		<td name="td3">0.243</td>
 		<td name="td4">0.337</td>
 		<td name="td5">0.318</td>
@@ -125,8 +125,8 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 		<td>DIVERSUM [2]</td>
 		<td name="td1">0.316</td>
 		<td name="td2">0.511</td>
-		<td name="td3"><b>0.269</b></td>
-		<td name="td4"><b>0.388</b></td>
+		<td name="td3">0.269</td>
+		<td name="td4">0.388</td>
 		<td name="td5">0.302</td>
 		<td name="td6">0.476</td>
 	</tr>
@@ -141,12 +141,12 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 	</tr>
 	<tr>
 	<td>FACES-E [4]</td>
-		<td name="td1"><b>0.354</b></td>
+		<td name="td1">0.354</td>
 		<td name="td2">0.529</td>
 		<td name="td3">0.258</td>
 		<td name="td4">0.361</td>
-		<td name="td5"><b>0.326</b></td>
-		<td name="td6"><b>0.481</b></td>
+		<td name="td5">0.326</td>
+		<td name="td6">0.481</td>
 	</tr>
 	<tr>
 		<td>FACES [5]</td>
@@ -172,7 +172,7 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 		<td name="td2"><b>0.597</td>
 		<td name="td3">0.319</td>
 		<td name="td4"><b>0.428</td>
-		<td name="td5"><b>0.378/td>
+		<td name="td5"><b>0.378</td>
 		<td name="td6"><b>0.549</td>
 	</tr>
 </table>
