@@ -83,13 +83,13 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 		<td name="td6">0.428</td>
 	</tr>
 	<tr>
-		<td>KAFCA</td>
-		<td name="td1">0.332</td>
-		<td name="td2">0.531</td>
+		<td><strong>KAFCA</strong></td>
+		<td name="td1"><b>0.332</td>
+		<td name="td2"><b>0.531</td>
 		<td name="td3">0.249</td>
-		<td name="td4">0.399</td>
-		<td name="td5">0.308</td>
-		<td name="td6">0.493</td>
+		<td name="td4"><b>0.399</td>
+		<td name="td5"><b>0.308</td>
+		<td name="td6"><b>0.493</td>
 	</tr>
 </table>
 
