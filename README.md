@@ -94,7 +94,79 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 	</tr>
 </table>
 
-
+**Table 2. MAP of selected entity summarizers under their best parameter settings**<br/>
+<table class="tablesorter" id="tb_map">
+	<thead>
+		<tr>
+		<th rowspan="2"></th>
+		<th colspan="2">DBpedia</th>
+		<th colspan="2">LinkedMDB</th>
+		<th colspan="2">All</th>
+		</tr>
+		<tr>
+		<th id="dbp1">k=5</th>
+		<th id="dbp2">k=10</th>
+		<th id="lmdb1">k=5</th>
+		<th id="lmdb1">k=10</th>
+		<th id="all1">k=5</th>
+		<th id="all1">k=10</th>
+		</tr>
+	</thead>
+	<tr>
+		<td>RELIN [1]</td>
+		<td name="td1">0.348</td>
+		<td name="td2"><b>0.532</b></td>
+		<td name="td3">0.243</td>
+		<td name="td4">0.337</td>
+		<td name="td5">0.318</td>
+		<td name="td6">0.476</td>
+	</tr>
+	<tr>
+		<td>DIVERSUM [2]</td>
+		<td name="td1">0.316</td>
+		<td name="td2">0.511</td>
+		<td name="td3"><b>0.269</b></td>
+		<td name="td4"><b>0.388</b></td>
+		<td name="td5">0.302</td>
+		<td name="td6">0.476</td>
+	</tr>
+	<tr>
+		<td>CD [3]<br></td>
+		<td name="td1">-</td>
+		<td name="td2">-</td>
+		<td name="td3">-</td>
+		<td name="td4">-</td>
+		<td name="td5">-</td>
+		<td name="td6">-</td>
+	</tr>
+	<tr>
+	<td>FACES-E [4]</td>
+		<td name="td1"><b>0.354</b></td>
+		<td name="td2">0.529</td>
+		<td name="td3">0.258</td>
+		<td name="td4">0.361</td>
+		<td name="td5"><b>0.326</b></td>
+		<td name="td6"><b>0.481</b></td>
+	</tr>
+	<tr>
+		<td>FACES [5]</td>
+		<td name="td1">0.247</td>
+		<td name="td2">0.386</td>
+		<td name="td3">0.140</td>
+		<td name="td4">0.261</td>
+		<td name="td5">0.216</td>
+		<td name="td6">0.351</td>
+	</tr>
+	<tr>
+		<td>LinkSUM [6]</td>
+		<td name="td1">0.246</td>
+		<td name="td2">0.386</td>
+		<td name="td3">0.120</td>
+		<td name="td4">0.254</td>
+		<td name="td5">0.210</td>
+		<td name="td6">0.348</td>
+	</tr>
+</table>
 ## Code
 The codes are in the folder src/.
 
