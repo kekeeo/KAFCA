@@ -11,8 +11,15 @@ This paper presents a novel approach to automatic entity summarization, which pr
 ## Evaluation Results
 We list the result of various methods in <a href='http://ws.nju.edu.cn/summarization/esbm/'>Entity Summarization BenchMark (ESBM)</a>.
 
-||DBpedia (k=5) | DBpedia (k=10) | LinkedMDB (k=5)| LinkedMDB (k=10)|All (k=5)|All (k=10)|
-
+<table>
+<tr>
+	<td>a</td>
+	<td>b</td>
+	<td>c</td>
+	<td>d</td>
+	<td><e/td>
+</tr>
+</table>
 
 ## Code
 The codes are in the folder src/.
