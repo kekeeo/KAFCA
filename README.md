@@ -177,8 +177,6 @@ We list the result of various methods in <a href='http://ws.nju.edu.cn/summariza
 	</tr>
 </table>
 
-## Code
-The codes are in the folder src/.
 
 ## References
 [1] Gong Cheng, Thanh Tran, Yuzhong Qu: RELIN: Relatedness and Informativeness-Based Centrality for Entity Summarization. International Semantic Web Conference (1) 2011: 114-129. <br/>
